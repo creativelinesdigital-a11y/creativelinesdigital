@@ -7,11 +7,17 @@ import {
   Instagram,
   Youtube,
   Dribbble,
-  Behance,
   Phone,
   Mail,
 } from "lucide-react";
 import { footerData } from "@/lib/data";
+
+const BehanceIcon = (props: React.SVGProps<SVGSVGElement>) => (
+    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" {...props}>
+        <path d="M8.56 2.75a3.37 3.37 0 0 0-2.18 1h0a3.37 3.37 0 0 0-1.44 2.32A3.37 3.37 0 0 0 8.56 9h4.88a3.37 3.37 0 0 0 3.37-3.37A3.37 3.37 0 0 0 13.44 2a3.37 3.37 0 0 0-3.37 3.37h-1.51A3.37 3.37 0 0 0 8.56 2.75Z"></path><path d="M8.56 15a3.37 3.37 0 0 0 3.37 3.37h1.51a3.37 3.37 0 0 0 0-6.74h-1.51A3.37 3.37 0 0 0 8.56 15Z"></path><path d="M2 18h2.88"></path>
+    </svg>
+);
+
 
 const socialIcons = {
   Facebook: Facebook,
@@ -20,7 +26,7 @@ const socialIcons = {
   Instagram: Instagram,
   YouTube: Youtube,
   Dribbble: Dribbble,
-  Behance: Behance,
+  Behance: BehanceIcon,
 };
 
 const Footer = () => {
