@@ -56,7 +56,7 @@ export const navLinks = [
             title: "QA & Support",
             href: "#",
             links: [
-                { title: "Software Testing", href: "#" },
+                { title: "Software Testing", href: "/software-testing" },
                 { title: "Support & Maintenance", href: "#" },
                 { title: "Mobile Testing", href: "#" },
                 { title: "API Integration", href: "#" },
@@ -76,7 +76,27 @@ export const navLinks = [
   },
   {
     title: "Services",
-    href: "#",
+    megaMenu: [
+      {
+        title: "Mobile App Development",
+        href: "#",
+        links: [
+          { title: "Android App Development", href: "#" },
+          { title: "Kotlin App Development", href: "#" },
+          { title: "iOS Game Development", href: "#" },
+          { title: "Cross Platform Apps", href: "#" },
+        ],
+      },
+      {
+        title: "Game Development",
+        href: "#",
+        links: [
+          { title: "Unreal Game Development", href: "#" },
+          { title: "Unity Game Development", href: "#" },
+          { title: "AR/VR App Development", href: "#" },
+        ],
+      },
+    ],
   },
   {
     title: "Hire Developers",
