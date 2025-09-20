@@ -1,3 +1,123 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-1",
+      "description": "A team of developers collaborating in a modern office setting.",
+      "imageUrl": "https://picsum.photos/seed/101/1920/1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "about-1",
+      "description": "Two abstract swirling shapes, one blue and one orange, representing digital transformation.",
+      "imageUrl": "https://picsum.photos/seed/102/800/1000",
+      "imageHint": "abstract shapes"
+    },
+    {
+      "id": "uiux-1",
+      "description": "A smartphone showcasing a clean and modern app interface.",
+      "imageUrl": "https://picsum.photos/seed/103/400/800",
+      "imageHint": "app interface"
+    },
+    {
+      "id": "game-dev-1",
+      "description": "A vibrant and exciting mobile game scene displayed on a smartphone.",
+      "imageUrl": "https://picsum.photos/seed/104/800/600",
+      "imageHint": "mobile game"
+    },
+    {
+      "id": "cta-1",
+      "description": "A diverse group of professionals working together on a project.",
+      "imageUrl": "https://picsum.photos/seed/105/1200/600",
+      "imageHint": "diverse team"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Portrait of a smiling professional man.",
+      "imageUrl": "https://picsum.photos/seed/201/200/200",
+      "imageHint": "professional man"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Portrait of a confident businessman.",
+      "imageUrl": "https://picsum.photos/seed/202/200/200",
+      "imageHint": "businessman portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Portrait of a creative professional.",
+      "imageUrl": "https://picsum.photos/seed/203/200/200",
+      "imageHint": "creative person"
+    },
+    {
+      "id": "testimonial-4",
+      "description": "Portrait of a smiling professional woman.",
+      "imageUrl": "https://picsum.photos/seed/204/200/200",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "award-1", "description": "Logo for a web development award.", "imageUrl": "https://picsum.photos/seed/301/200/100", "imageHint": "award logo"
+    },
+    {
+      "id": "award-2", "description": "Logo for a digital marketing award.", "imageUrl": "https://picsum.photos/seed/302/200/100", "imageHint": "award badge"
+    },
+    {
+      "id": "award-3", "description": "GoodFirms top company logo.", "imageUrl": "https://picsum.photos/seed/303/200/100", "imageHint": "review badge"
+    },
+    {
+      "id": "award-4", "description": "Clutch top 1000 company logo.", "imageUrl": "https://picsum.photos/seed/304/200/100", "imageHint": "clutch logo"
+    },
+    {
+      "id": "award-5", "description": "SEOblog top agency logo.", "imageUrl": "https://picsum.photos/seed/305/200/100", "imageHint": "SEO award"
+    },
+    {
+      "id": "award-6", "description": "Top e-commerce developer award logo.", "imageUrl": "https://picsum.photos/seed/306/200/100", "imageHint": "ecommerce badge"
+    },
+    {
+      "id": "blog-1", "description": "People collaborating around a digital whiteboard with Figma designs.", "imageUrl": "https://picsum.photos/seed/401/600/400", "imageHint": "design workshop"
+    },
+    {
+      "id": "blog-2", "description": "An abstract representation of artificial intelligence on a smartphone.", "imageUrl": "https://picsum.photos/seed/402/600/400", "imageHint": "AI concept"
+    },
+    {
+      "id": "blog-3", "description": "A shopping cart icon on a screen, representing e-commerce development.", "imageUrl": "https://picsum.photos/seed/403/600/400", "imageHint": "ecommerce concept"
+    },
+    {
+      "id": "case-1", "description": "A vibrant scene from an event management application.", "imageUrl": "https://picsum.photos/seed/501/400/400", "imageHint": "event management"
+    },
+    {
+      "id": "case-2", "description": "A clean interface of a personal finance app.", "imageUrl": "https://picsum.photos/seed/502/400/400", "imageHint": "finance app"
+    },
+    {
+      "id": "case-3", "description": "An artistic representation of a music or poetry app.", "imageUrl": "https://picsum.photos/seed/503/400/400", "imageHint": "music app"
+    },
+    {
+      "id": "case-4", "description": "A social media feed shown on a mobile device.", "imageUrl": "https://picsum.photos/seed/504/400/400", "imageHint": "social media"
+    },
+     {
+      "id": "case-5", "description": "A smart home control panel on a tablet.", "imageUrl": "https://picsum.photos/seed/505/400/400", "imageHint": "smart home"
+    },
+     {
+      "id": "case-6", "description": "A fitness tracking app showing activity and goals.", "imageUrl": "https://picsum.photos/seed/506/400/400", "imageHint": "fitness app"
+    },
+    { "id": "tech-1", "name": "AWS", "imageUrl": "https://picsum.photos/seed/601/100/100", "imageHint": "AWS logo" },
+    { "id": "tech-2", "name": "Bootstrap", "imageUrl": "https://picsum.photos/seed/602/100/100", "imageHint": "Bootstrap logo" },
+    { "id": "tech-3", "name": "C#", "imageUrl": "https://picsum.photos/seed/603/100/100", "imageHint": "Csharp logo" },
+    { "id": "tech-4", "name": "CSS3", "imageUrl": "https://picsum.photos/seed/604/100/100", "imageHint": "CSS3 logo" },
+    { "id": "tech-5", "name": "Django", "imageUrl": "https://picsum.photos/seed/605/100/100", "imageHint": "Django logo" },
+    { "id": "tech-6", "name": "Docker", "imageUrl": "https://picsum.photos/seed/606/100/100", "imageHint": "Docker logo" },
+    { "id": "tech-7", "name": "Flask", "imageUrl": "https://picsum.photos/seed/607/100/100", "imageHint": "Flask logo" },
+    { "id": "tech-8", "name": "Google Cloud", "imageUrl": "https://picsum.photos/seed/608/100/100", "imageHint": "GCP logo" },
+    { "id": "tech-9", "name": "GraphQL", "imageUrl": "https://picsum.photos/seed/609/100/100", "imageHint": "GraphQL logo" },
+    { "id": "tech-10", "name": "JavaScript", "imageUrl": "https://picsum.photos/seed/610/100/100", "imageHint": "JavaScript logo" },
+    { "id": "tech-11", "name": "Kafka", "imageUrl": "https://picsum.photos/seed/611/100/100", "imageHint": "Kafka logo" },
+    { "id": "tech-12", "name": "Kubernetes", "imageUrl": "https://picsum.photos/seed/612/100/100", "imageHint": "Kubernetes logo" },
+    { "id": "tech-13", "name": "MongoDB", "imageUrl": "https://picsum.photos/seed/613/100/100", "imageHint": "MongoDB logo" },
+    { "id": "tech-14", "name": "MS Azure", "imageUrl": "https://picsum.photos/seed/614/100/100", "imageHint": "Azure logo" },
+    { "id": "tech-15", "name": "Java", "imageUrl": "https://picsum.photos/seed/615/100/100", "imageHint": "Java logo" },
+    { "id": "tech-16", "name": ".NET", "imageUrl": "https://picsum.photos/seed/616/100/100", "imageHint": "DotNet logo" },
+    { "id": "tech-17", "name": "Node.js", "imageUrl": "https://picsum.photos/seed/617/100/100", "imageHint": "NodeJS logo" },
+    { "id": "tech-18", "name": "Python", "imageUrl": "https://picsum.photos/seed/618/100/100", "imageHint": "Python logo" },
+    { "id": "tech-19", "name": "React", "imageUrl": "https://picsum.photos/seed/619/100/100", "imageHint": "React logo" },
+    { "id": "tech-20", "name": "Unity 3D", "imageUrl": "https://picsum.photos/seed/620/100/100", "imageHint": "Unity logo" }
+  ]
 }
