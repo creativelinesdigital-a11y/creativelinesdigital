@@ -24,7 +24,7 @@ export default function ServicePageLayout({
   return (
     <div className="flex flex-col min-h-screen">
       <Header />
-      <main className="flex-grow">
+      <main className="flex-grow animate-in fade-in duration-500">
         <section className="relative text-white py-20 md:py-28">
           <Image
             src={imageUrl}
