@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Cross-Platform Compatibility",
-        description: "We build OTT applications that deliver a seamless experience across a wide range of devices, including smart TVs, mobile phones, tablets, and web browsers.",
+        title: "Multi-Platform Reach",
+        description: "Deliver engaging content across Android, iOS, Smart TVs, and web apps. We build apps optimized for every platform, ensuring seamless user experiences. Reach wider audiences without compromising quality.",
         imageId: "service-ott-development-1"
     },
     {
-        title: "Secure Video Streaming",
-        description: "Our solutions include robust DRM and content protection to secure your valuable video assets and prevent unauthorized access.",
+        title: "Scalable Solutions",
+        description: "Handle large audiences with high-performance, cloud-ready OTT platforms. Our solutions are built to support millions of users with smooth streaming. As your audience grows, your app grows with it.",
         imageId: "service-ott-development-2"
     },
     {
-        title: "Monetization Models",
-        description: "We integrate various monetization strategies, including subscription-based (SVOD), transaction-based (TVOD), and ad-supported (AVOD) models.",
+        title: "Personalized Experiences",
+        description: "Integrate features like recommendations, profiles, and advanced search. Personalization increases user engagement and keeps viewers coming back. Enhance retention with customized content journeys.",
         imageId: "service-ott-development-3"
     },
     {
-        title: "Scalable Cloud Infrastructure",
-        description: "Leveraging powerful cloud platforms, we ensure your OTT service can handle high traffic loads and scale effortlessly as your audience grows.",
+        title: "Secure Streaming",
+        description: "Ensure data protection and content security with advanced encryption. We implement DRM and authentication systems to safeguard your content. Your users enjoy a safe and reliable streaming experience.",
         imageId: "service-ott-development-4"
     },
 ];

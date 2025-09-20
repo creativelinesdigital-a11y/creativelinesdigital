@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Full Project Ownership",
-        description: "Your dedicated team works exclusively on your project, ensuring deep focus, commitment, and alignment with your long-term vision.",
+        title: "Full Ownership",
+        description: "A team exclusively focused on your project, aligned with your business goals. Enjoy complete control over tasks, priorities, and delivery. This ensures the team works with your vision at the center.",
         imageId: "service-dedicated-team-1"
     },
     {
-        title: "Handpicked Expertise",
-        description: "We assemble a team with the precise skills and experience your project requires, from front-end and back-end developers to UI/UX designers and QA engineers.",
+        title: "Seamless Collaboration",
+        description: "Work directly with developers as an extension of your in-house staff. Communication flows smoothly, enabling better coordination and faster decision-making. It feels like having your own remote team.",
         imageId: "service-dedicated-team-2"
     },
     {
-        title: "Complete Transparency and Control",
-        description: "You have full control over the development process, with direct communication, regular reporting, and complete transparency into the team's progress.",
+        title: "Transparent Process",
+        description: "Get full visibility of progress, timelines, and resources at every stage. We keep you informed through regular updates and reports. This transparency builds trust and keeps projects on track.",
         imageId: "service-dedicated-team-3"
     },
     {
-        title: "Scalability and Flexibility",
-        description: "Easily scale your team up or down based on project demands, ensuring you always have the right resources at the right time.",
+        title: "Long-Term Partnership",
+        description: "Build a reliable development team committed to your ongoing success. Our teams adapt as your business grows, ensuring long-term value. This partnership is designed to deliver sustainable results.",
         imageId: "service-dedicated-team-4"
     },
 ];

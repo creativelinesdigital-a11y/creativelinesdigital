@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Keyword Research and Optimization",
-        description: "We identify and target high-value keywords to improve your app's search rankings and attract relevant users.",
+        title: "Keyword Optimization",
+        description: "Boost app visibility with targeted and trending keywords. We research and implement strategies that align with user search behavior. This helps your app rank higher and reach more potential users.",
         imageId: "service-aso-1"
     },
     {
-        title: "Compelling App Listings",
-        description: "From the app icon and title to screenshots and descriptions, we optimize every element of your store listing to maximize conversions.",
+        title: "High-Quality Creatives",
+        description: "Optimize icons, screenshots, and videos to attract more downloads. Engaging visuals create a strong first impression and improve conversion rates. This drives both installs and brand recognition.",
         imageId: "service-aso-2"
     },
     {
-        title: "Ratings and Reviews Management",
-        description: "We help you implement strategies to encourage positive reviews and effectively manage user feedback to build a strong reputation.",
+        title: "Better App Rankings",
+        description: "Improve your position in app stores with proven ASO strategies. From metadata updates to review management, we cover all aspects. A higher rank means more organic traffic and installs.",
         imageId: "service-aso-3"
     },
     {
-        title: "Performance Analytics and Reporting",
-        description: "We continuously monitor your app's performance, providing detailed analytics and insights to refine your ASO strategy over time.",
+        title: "Increased Conversions",
+        description: "Turn impressions into installs through optimized descriptions and reviews. We highlight your app’s strengths to maximize downloads. Every element is refined to deliver measurable results.",
         imageId: "service-aso-4"
     },
 ];

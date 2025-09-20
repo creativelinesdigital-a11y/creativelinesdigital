@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Access to a Vast Talent Pool",
-        description: "Our extensive network of IT professionals covers a wide range of technologies and roles, ensuring we can find the perfect match for your requirements.",
+        title: "Access to Top Talent",
+        description: "Hire IT professionals with proven skills across multiple technologies. From developers to project managers, we provide the right talent for your needs. Every candidate is vetted for quality and expertise.",
         imageId: "service-it-staffing-1"
     },
     {
-        title: "Rigorous Vetting Process",
-        description: "We conduct thorough technical assessments, background checks, and interviews to ensure you get only the most qualified and reliable candidates.",
+        title: "Quick Onboarding",
+        description: "Rapidly deploy the right experts without lengthy recruitment cycles. Our streamlined process ensures minimal downtime and immediate productivity. You save time and effort while starting projects faster.",
         imageId: "service-it-staffing-2"
     },
     {
-        title: "Flexible Hiring Options",
-        description: "We offer contract, contract-to-hire, and direct placement options to provide the flexibility your business needs to grow and adapt.",
+        title: "Flexible Engagements",
+        description: "Choose short-term, long-term, or project-based staffing as needed. We adapt our services to match your project scope and timeline. This flexibility keeps your costs optimized and projects efficient.",
         imageId: "service-it-staffing-3"
     },
     {
-        title: "Reduced Time-to-Hire",
-        description: "Our efficient recruitment process significantly shortens the hiring cycle, allowing you to onboard new team members quickly and keep your projects on track.",
+        title: "Reduced Hiring Risk",
+        description: "We match vetted candidates to your exact technical requirements. This reduces the risk of mismatched skills or poor performance. You get reliable professionals who deliver consistent results.",
         imageId: "service-it-staffing-4"
     },
 ];

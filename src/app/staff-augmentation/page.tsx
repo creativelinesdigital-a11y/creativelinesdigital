@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Access to Specialized Talent",
-        description: "Quickly fill skill gaps in your team by tapping into our global network of pre-vetted, expert developers, designers, and project managers.",
+        title: "Flexible Scaling",
+        description: "Quickly expand your team with skilled professionals whenever project demands increase. Whether you need one expert or an entire group, we provide resources that fit your requirements. Scale up or down effortlessly without disrupting ongoing operations.",
         imageId: "service-staff-augmentation-1"
     },
     {
-        title: "Flexible Engagement Models",
-        description: "Whether you need one developer for a short-term project or a full team for long-term collaboration, our flexible models adapt to your needs.",
+        title: "Cost-Effective Talent",
+        description: "Reduce hiring costs by accessing on-demand experts without long-term commitments. Eliminate expenses on recruitment, training, and overhead while getting top-notch talent. You only pay for the expertise you need, when you need it.",
         imageId: "service-staff-augmentation-2"
     },
     {
-        title: "Cost-Effective Solution",
-        description: "Avoid the high costs and long processes of traditional recruitment. With staff augmentation, you only pay for the expertise you need, when you need it.",
+        title: "Domain Expertise",
+        description: "Leverage specialized knowledge from industry experts tailored to your business needs. Our professionals bring experience across diverse technologies and industries. This ensures faster problem-solving and high-quality output.",
         imageId: "service-staff-augmentation-3"
     },
     {
-        title: "Seamless Integration",
-        description: "Our professionals are skilled at quickly integrating with your existing team, adopting your workflows and communication channels for a smooth collaboration.",
+        title: "Faster Delivery",
+        description: "Accelerate project timelines by instantly filling skill gaps in your team. With the right professionals onboard, projects move forward without delays. This results in quicker time-to-market and a competitive edge.",
         imageId: "service-staff-augmentation-4"
     },
 ];

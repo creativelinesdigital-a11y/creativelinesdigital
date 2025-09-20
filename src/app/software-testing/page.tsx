@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Manual and Automated Testing",
-        description: "We offer a hybrid approach, combining meticulous manual testing with efficient automated scripts to ensure comprehensive test coverage.",
+        title: "Comprehensive QA",
+        description: "Identify and eliminate bugs with functional, performance, and usability testing. We test across platforms to ensure consistent quality. Every release goes through rigorous checks for reliability.",
         imageId: "service-software-testing-1"
     },
     {
-        title: "Performance and Load Testing",
-        description: "Our team simulates real-world user traffic to identify performance bottlenecks and ensure your application is fast, stable, and scalable.",
+        title: "Automation Testing",
+        description: "Save time and improve accuracy with modern test automation tools. Automated scripts reduce repetitive manual work and speed up testing cycles. This leads to faster and more efficient releases.",
         imageId: "service-software-testing-2"
     },
     {
-        title: "Security Testing",
-        description: "We conduct vulnerability assessments and penetration testing to identify and address security flaws, protecting your application and user data.",
+        title: "Security Assurance",
+        description: "Protect your software from vulnerabilities and cyber threats. We conduct thorough security testing to safeguard your applications. Users gain trust knowing their data is safe.",
         imageId: "service-software-testing-3"
     },
     {
-        title: "Compatibility Testing",
-        description: "We test your application across a wide range of browsers, operating systems, and devices to ensure a consistent and reliable user experience for everyone.",
+        title: "Reliable Delivery",
+        description: "Ensure high-quality, stable, and error-free releases for end-users. Our testing ensures your product meets industry standards and user expectations. This builds credibility and long-term user satisfaction.",
         imageId: "service-software-testing-4"
     },
 ];

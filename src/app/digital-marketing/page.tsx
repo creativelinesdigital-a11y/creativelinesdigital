@@ -4,23 +4,23 @@ import Image from "next/image";
 
 const features = [
     {
-        title: "Search Engine Optimization (SEO)",
-        description: "Improve your website's visibility on search engines and attract high-quality organic traffic with our proven SEO strategies.",
+        title: "SEO & SEM",
+        description: "Enhance your online presence with search-driven strategies. Our SEO and SEM campaigns bring your brand in front of the right audience. This results in higher traffic and stronger brand authority.",
         imageId: "service-digital-marketing-1"
     },
     {
-        title: "Pay-Per-Click (PPC) Advertising",
-        description: "Get instant results with targeted PPC campaigns on platforms like Google Ads and social media. We manage your budget to maximize ROI.",
+        title: "Social Media Growth",
+        description: "Engage audiences and build brand awareness across popular platforms. We create impactful campaigns that drive interactions and loyalty. From posts to ads, every step is designed to grow your reach.",
         imageId: "service-digital-marketing-2"
     },
     {
-        title: "Content Marketing",
-        description: "Engage your audience and build authority with high-quality blog posts, articles, videos, and other content tailored to your brand.",
+        title: "Data-Driven Campaigns",
+        description: "Leverage analytics to optimize marketing performance and ROI. We track and refine strategies using real-time insights. This ensures your marketing budget delivers maximum results.",
         imageId: "service-digital-marketing-3"
     },
     {
-        title: "Social Media Marketing",
-        description: "Build a strong community and drive engagement with strategic social media campaigns across all relevant platforms.",
+        title: "Multi-Channel Reach",
+        description: "Promote your brand across email, PPC, social, and content marketing. Our holistic approach ensures consistent messaging across all platforms. This creates stronger connections and wider visibility.",
         imageId: "service-digital-marketing-4"
     },
 ];
