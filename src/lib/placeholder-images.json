@@ -54,8 +54,7 @@
       "imageUrl": "https://picsum.photos/seed/204/200/200",
       "imageHint": "professional woman"
     },
-    {
-      "id": "award-1", "description": "Logo for a web development award.", "imageUrl": "https://picsum.photos/seed/301/200/100", "imageHint": "award logo"
+    { "id": "award-1", "description": "Logo for a web development award.", "imageUrl": "https://picsum.photos/seed/301/200/100", "imageHint": "award logo"
     },
     {
       "id": "award-2", "description": "Logo for a digital marketing award.", "imageUrl": "https://picsum.photos/seed/302/200/100", "imageHint": "award badge"
@@ -72,8 +71,7 @@
     {
       "id": "award-6", "description": "Top e-commerce developer award logo.", "imageUrl": "https://picsum.photos/seed/306/200/100", "imageHint": "ecommerce badge"
     },
-    {
-      "id": "blog-1", "description": "People collaborating around a digital whiteboard with Figma designs.", "imageUrl": "https://picsum.photos/seed/401/600/400", "imageHint": "design workshop"
+    { "id": "blog-1", "description": "People collaborating around a digital whiteboard with Figma designs.", "imageUrl": "https://picsum.photos/seed/401/600/400", "imageHint": "design workshop"
     },
     {
       "id": "blog-2", "description": "An abstract representation of artificial intelligence on a smartphone.", "imageUrl": "https://picsum.photos/seed/402/600/400", "imageHint": "AI concept"
@@ -118,6 +116,27 @@
     { "id": "tech-17", "name": "Node.js", "imageUrl": "https://picsum.photos/seed/617/100/100", "imageHint": "NodeJS logo" },
     { "id": "tech-18", "name": "Python", "imageUrl": "https://picsum.photos/seed/618/100/100", "imageHint": "Python logo" },
     { "id": "tech-19", "name": "React", "imageUrl": "https://picsum.photos/seed/619/100/100", "imageHint": "React logo" },
-    { "id": "tech-20", "name": "Unity 3D", "imageUrl": "https://picsum.photos/seed/620/100/100", "imageHint": "Unity logo" }
+    { "id": "tech-20", "name": "Unity 3D", "imageUrl": "https://picsum.photos/seed/620/100/100", "imageHint": "Unity logo" },
+    {
+      "id": "service-staff-augmentation", "description": "Team members joining a new company.", "imageUrl": "https://picsum.photos/seed/701/1920/1080", "imageHint": "team integration"
+    },
+    {
+      "id": "service-dedicated-team", "description": "A dedicated team working together.", "imageUrl": "https://picsum.photos/seed/702/1920/1080", "imageHint": "dedicated team"
+    },
+    {
+      "id": "service-it-staffing", "description": "Human resources and recruitment concept.", "imageUrl": "https://picsum.photos/seed/703/1920/1080", "imageHint": "IT recruitment"
+    },
+    {
+      "id": "service-ott-development", "description": "Streaming service on a TV.", "imageUrl": "https://picsum.photos/seed/704/1920/1080", "imageHint": "streaming service"
+    },
+    {
+      "id": "service-aso", "description": "App store on a mobile phone.", "imageUrl": "https://picsum.photos/seed/705/1920/1080", "imageHint": "app store"
+    },
+    {
+      "id": "service-digital-marketing", "description": "Digital marketing strategy chart.", "imageUrl": "https://picsum.photos/seed/706/1920/1080", "imageHint": "marketing chart"
+    },
+    {
+      "id": "service-software-testing", "description": "Software testing on a computer screen.", "imageUrl": "https://picsum.photos/seed/707/1920/1080", "imageHint": "software testing"
+    }
   ]
 }
