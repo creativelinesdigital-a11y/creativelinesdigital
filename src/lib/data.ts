@@ -81,19 +81,19 @@ export const navLinks = [
         title: "Mobile App Development",
         href: "#",
         links: [
-          { title: "Android App Development", href: "#" },
-          { title: "Kotlin App Development", href: "#" },
-          { title: "iOS Game Development", href: "#" },
-          { title: "Cross Platform Apps", href: "#" },
+          { title: "Android App Development", href: "/android-app-development" },
+          { title: "Kotlin App Development", href: "/kotlin-app-development" },
+          { title: "iOS Game Development", href: "/ios-game-development" },
+          { title: "Cross Platform Apps", href: "/cross-platform-apps" },
         ],
       },
       {
         title: "Game Development",
         href: "#",
         links: [
-          { title: "Unreal Game Development", href: "#" },
-          { title: "Unity Game Development", href: "#" },
-          { title: "AR/VR App Development", href: "#" },
+          { title: "Unreal Game Development", href: "/unreal-game-development" },
+          { title: "Unity Game Development", href: "/unity-game-development" },
+          { title: "AR/VR App Development", href: "/ar-vr-app-development" },
         ],
       },
     ],
@@ -251,13 +251,13 @@ export const footerData = {
         {
             title: "Services",
             links: [
-                { label: "Android App Development", href: "#" },
-                { label: "Kotlin App Development", href: "#" },
-                { label: "AR/VR App Development", href: "#" },
-                { label: "Unreal Game Development", href: "#" },
-                { label: "Unity Game Development", href: "#" },
-                { label: "iOS Game Development", href: "#" },
-                { label: "Cross Platform Apps", href: "#" },
+                { label: "Android App Development", href: "/android-app-development" },
+                { label: "Kotlin App Development", href: "/kotlin-app-development" },
+                { label: "AR/VR App Development", href: "/ar-vr-app-development" },
+                { label: "Unreal Game Development", href: "/unreal-game-development" },
+                { label: "Unity Game Development", href: "/unity-game-development" },
+                { label: "iOS Game Development", href: "/ios-game-development" },
+                { label: "Cross Platform Apps", href: "/cross-platform-apps" },
             ]
         },
         {

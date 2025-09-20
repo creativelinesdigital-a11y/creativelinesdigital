@@ -165,6 +165,111 @@
     { "id": "service-software-testing-1", "description": "A person doing both manual and automated testing.", "imageUrl": "https://picsum.photos/seed/825/800/600", "imageHint": "automated testing" },
     { "id": "service-software-testing-2", "description": "A server under a stress test with high traffic.", "imageUrl": "https://picsum.photos/seed/826/800/600", "imageHint": "load testing" },
     { "id": "service-software-testing-3", "description": "A shield protecting a computer from cyber threats.", "imageUrl": "https://picsum.photos/seed/827/800/600", "imageHint": "security testing" },
-    { "id": "service-software-testing-4", "description": "An application running on multiple devices.", "imageUrl": "https://picsum.photos/seed/828/800/600", "imageHint": "compatibility testing" }
+    { "id": "service-software-testing-4", "description": "An application running on multiple devices.", "imageUrl": "https://picsum.photos/seed/828/800/600", "imageHint": "compatibility testing" },
+    {
+      "id": "service-android", "description": "Android logo on a smartphone screen.", "imageUrl": "https://picsum.photos/seed/901/1920/1080", "imageHint": "android phone"
+    },
+    {
+      "id": "service-android-1", "description": "Native Android app interface.", "imageUrl": "https://picsum.photos/seed/902/800/600", "imageHint": "native interface"
+    },
+    {
+      "id": "service-android-2", "description": "A scalable architecture diagram for Android.", "imageUrl": "https://picsum.photos/seed/903/800/600", "imageHint": "scalable architecture"
+    },
+    {
+      "id": "service-android-3", "description": "Android device fragmentation concept.", "imageUrl": "https://picsum.photos/seed/904/800/600", "imageHint": "device compatibility"
+    },
+    {
+      "id": "service-android-4", "description": "User enjoying a seamless app experience.", "imageUrl": "https://picsum.photos/seed/905/800/600", "imageHint": "user experience"
+    },
+    {
+      "id": "service-kotlin", "description": "Kotlin logo with code in the background.", "imageUrl": "https://picsum.photos/seed/906/1920/1080", "imageHint": "kotlin code"
+    },
+    {
+      "id": "service-kotlin-1", "description": "Clean and modern Kotlin code on a screen.", "imageUrl": "https://picsum.photos/seed/907/800/600", "imageHint": "clean code"
+    },
+    {
+      "id": "service-kotlin-2", "description": "Kotlin's interoperability with Java.", "imageUrl": "https://picsum.photos/seed/908/800/600", "imageHint": "java interop"
+    },
+    {
+      "id": "service-kotlin-3", "description": "A developer fixing a bug quickly.", "imageUrl": "https://picsum.photos/seed/909/800/600", "imageHint": "less code"
+    },
+    {
+      "id": "service-kotlin-4", "description": "A secure app with Kotlin shield.", "imageUrl": "https://picsum.photos/seed/910/800/600", "imageHint": "enhanced security"
+    },
+    {
+      "id": "service-ar-vr", "description": "Person using a VR headset for an immersive experience.", "imageUrl": "https://picsum.photos/seed/911/1920/1080", "imageHint": "VR experience"
+    },
+    {
+      "id": "service-ar-vr-1", "description": "Augmented reality app on a smartphone.", "imageUrl": "https://picsum.photos/seed/912/800/600", "imageHint": "augmented reality"
+    },
+    {
+      "id": "service-ar-vr-2", "description": "A 3D model being manipulated in AR.", "imageUrl": "https://picsum.photos/seed/913/800/600", "imageHint": "3D modeling"
+    },
+    {
+      "id": "service-ar-vr-3", "description": "A virtual reality environment for training.", "imageUrl": "https://picsum.photos/seed/914/800/600", "imageHint": "VR training"
+    },
+    {
+      "id": "service-ar-vr-4", "description": "A group of people interacting in a shared virtual space.", "imageUrl": "https://picsum.photos/seed/915/800/600", "imageHint": "social VR"
+    },
+    {
+      "id": "service-unreal", "description": "A stunning cinematic scene created in Unreal Engine.", "imageUrl": "https://picsum.photos/seed/916/1920/1080", "imageHint": "unreal engine"
+    },
+    {
+      "id": "service-unreal-1", "description": "Photorealistic graphics in a game.", "imageUrl": "https://picsum.photos/seed/917/800/600", "imageHint": "photorealistic graphics"
+    },
+    {
+      "id": "service-unreal-2", "description": "Complex physics simulation in Unreal Engine.", "imageUrl": "https://picsum.photos/seed/918/800/600", "imageHint": "physics simulation"
+    },
+    {
+      "id": "service-unreal-3", "description": "A game running on multiple platforms.", "imageUrl": "https://picsum.photos/seed/919/800/600", "imageHint": "multiplatform game"
+    },
+    {
+      "id": "service-unreal-4", "description": "A large, open-world game environment.", "imageUrl": "https://picsum.photos/seed/920/800/600", "imageHint": "open world"
+    },
+    {
+      "id": "service-unity", "description": "A developer working in the Unity editor.", "imageUrl": "https://picsum.photos/seed/921/1920/1080", "imageHint": "unity editor"
+    },
+    {
+      "id": "service-unity-1", "description": "A game deployed on mobile, console, and PC.", "imageUrl": "https://picsum.photos/seed/922/800/600", "imageHint": "cross platform"
+    },
+    {
+      "id": "service-unity-2", "description": "The Unity Asset Store with various assets.", "imageUrl": "https://picsum.photos/seed/923/800/600", "imageHint": "asset store"
+    },
+    {
+      "id": "service-unity-3", "description": "A 2D platformer game made in Unity.", "imageUrl": "https://picsum.photos/seed/924/800/600", "imageHint": "2D game"
+    },
+    {
+      "id": "service-unity-4", "description": "A complex 3D game with detailed graphics.", "imageUrl": "https://picsum.photos/seed/925/800/600", "imageHint": "3D game"
+    },
+    {
+      "id": "service-ios-game", "description": "An exciting game running on an iPhone.", "imageUrl": "https://picsum.photos/seed/926/1920/1080", "imageHint": "iOS game"
+    },
+    {
+      "id": "service-ios-game-1", "description": "A game optimized for performance on iOS devices.", "imageUrl": "https://picsum.photos/seed/927/800/600", "imageHint": "iOS performance"
+    },
+    {
+      "id": "service-ios-game-2", "description": "Game Center integration for achievements and leaderboards.", "imageUrl": "https://picsum.photos/seed/928/800/600", "imageHint": "game center"
+    },
+    {
+      "id": "service-ios-game-3", "description": "In-app purchases in an iOS game.", "imageUrl": "https://picsum.photos/seed/929/800/600", "imageHint": "in-app purchase"
+    },
+    {
+      "id": "service-ios-game-4", "description": "A game being played on both an iPhone and an iPad.", "imageUrl": "https://picsum.photos/seed/930/800/600", "imageHint": "universal app"
+    },
+    {
+      "id": "service-cross-platform", "description": "An app running seamlessly on different devices.", "imageUrl": "https://picsum.photos/seed/931/1920/1080", "imageHint": "cross-platform app"
+    },
+    {
+      "id": "service-cross-platform-1", "description": "A single codebase for multiple platforms.", "imageUrl": "https://picsum.photos/seed/932/800/600", "imageHint": "single codebase"
+    },
+    {
+      "id": "service-cross-platform-2", "description": "A graph showing reduced development time and cost.", "imageUrl": "https://picsum.photos/seed/933/800/600", "imageHint": "cost effective"
+    },
+    {
+      "id": "service-cross-platform-3", "description": "A wider audience reach across different app stores.", "imageUrl": "https://picsum.photos/seed/934/800/600", "imageHint": "wider audience"
+    },
+    {
+      "id": "service-cross-platform-4", "description": "A developer easily maintaining an app.", "imageUrl": "https://picsum.photos/seed/935/800/600", "imageHint": "easy maintenance"
+    }
   ]
 }
