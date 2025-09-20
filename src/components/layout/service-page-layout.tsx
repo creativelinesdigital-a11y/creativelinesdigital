@@ -3,7 +3,6 @@ import Header from '@/components/layout/header';
 import Footer from '@/components/layout/footer';
 import { ContactButton } from '@/components/contact-button';
 import Image from 'next/image';
-import { PlaceHolderImages } from '@/lib/placeholder-images';
 
 interface ServicePageLayoutProps {
   title: string;
@@ -41,6 +40,9 @@ export default function ServicePageLayout({
             <p className="mt-4 text-lg md:text-xl max-w-3xl mx-auto text-white/90">
               {description}
             </p>
+            <div className="mt-8">
+                <ContactButton size="lg">Get Started</ContactButton>
+            </div>
           </div>
         </section>
 
