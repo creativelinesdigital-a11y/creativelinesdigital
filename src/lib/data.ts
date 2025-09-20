@@ -40,13 +40,16 @@ export const navLinks = [
     title: "Solutions",
     megaMenu: [
         {
-            title: "Cybersecurity",
+            title: "Solutions",
             href: "#",
             links: [
-                { title: "Penetration Testing", href: "#" },
-                { title: "Vulnerability Assessment", href: "#" },
-                { title: "SIEM Monitoring", href: "#" },
-                { title: "Security Consulting", href: "#" },
+                { title: "Staff Augmentation", href: "/staff-augmentation" },
+                { title: "Dedicated Development Team", href: "/dedicated-development-team" },
+                { title: "IT Staffing Services", href: "/it-staffing-services" },
+                { title: "OTT App Development", href: "/ott-app-development" },
+                { title: "App Store Optimization", href: "/app-store-optimization" },
+                { title: "Digital Marketing", href: "/digital-marketing" },
+                { title: "Software Testing", href: "/software-testing" },
             ]
         },
         {
@@ -288,3 +291,5 @@ export const footerData = {
         { label: "Terms & Condition", href: "#" },
     ]
 };
+
+    
