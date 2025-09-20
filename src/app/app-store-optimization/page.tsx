@@ -1,23 +1,27 @@
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { CheckCircle2 } from "lucide-react";
+import Image from "next/image";
 
 const features = [
     {
         title: "Keyword Research and Optimization",
-        description: "We identify and target high-value keywords to improve your app's search rankings and attract relevant users."
+        description: "We identify and target high-value keywords to improve your app's search rankings and attract relevant users.",
+        imageId: "service-aso-1"
     },
     {
         title: "Compelling App Listings",
-        description: "From the app icon and title to screenshots and descriptions, we optimize every element of your store listing to maximize conversions."
+        description: "From the app icon and title to screenshots and descriptions, we optimize every element of your store listing to maximize conversions.",
+        imageId: "service-aso-2"
     },
     {
         title: "Ratings and Reviews Management",
-        description: "We help you implement strategies to encourage positive reviews and effectively manage user feedback to build a strong reputation."
+        description: "We help you implement strategies to encourage positive reviews and effectively manage user feedback to build a strong reputation.",
+        imageId: "service-aso-3"
     },
     {
         title: "Performance Analytics and Reporting",
-        description: "We continuously monitor your app's performance, providing detailed analytics and insights to refine your ASO strategy over time."
+        description: "We continuously monitor your app's performance, providing detailed analytics and insights to refine your ASO strategy over time.",
+        imageId: "service-aso-4"
     },
 ];
 
@@ -41,16 +45,30 @@ export default function AppStoreOptimization() {
                 At Binate Digital, our ASO experts use a data-driven approach to enhance your app's presence. We analyze your market, competitors, and target audience to develop a comprehensive strategy that covers all aspects of your app store listing, driving sustainable growth and maximizing your return on investment.
             </p>
 
-            <div className="grid md:grid-cols-2 gap-8 pt-8">
-                {features.map((feature, index) => (
-                    <div key={index} className="flex items-start">
-                        <CheckCircle2 className="h-8 w-8 text-primary mr-4 mt-1 shrink-0" />
-                        <div>
-                            <h3 className="font-semibold text-xl mb-2">{feature.title}</h3>
-                            <p className="text-muted-foreground">{feature.description}</p>
+            <div className="space-y-16 pt-12">
+                {features.map((feature, index) => {
+                    const featureImage = PlaceHolderImages.find(img => img.id === feature.imageId);
+                    const isReversed = index % 2 !== 0;
+                    return (
+                        <div key={index} className="grid md:grid-cols-2 gap-12 items-center">
+                            <div className={`relative h-80 w-full ${isReversed ? 'md:order-last' : ''}`}>
+                                {featureImage && (
+                                    <Image
+                                        src={featureImage.imageUrl}
+                                        alt={featureImage.description}
+                                        fill
+                                        className="object-cover rounded-lg shadow-lg"
+                                        data-ai-hint={featureImage.imageHint}
+                                    />
+                                )}
+                            </div>
+                            <div className="space-y-4">
+                                <h3 className="font-semibold text-2xl">{feature.title}</h3>
+                                <p className="text-muted-foreground text-lg">{feature.description}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
         </div>
     </ServicePageLayout>

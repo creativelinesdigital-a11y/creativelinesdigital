@@ -137,6 +137,34 @@
     },
     {
       "id": "service-software-testing", "description": "Software testing on a computer screen.", "imageUrl": "https://picsum.photos/seed/707/1920/1080", "imageHint": "software testing"
-    }
+    },
+    { "id": "service-staff-augmentation-1", "description": "Programmer working on a computer.", "imageUrl": "https://picsum.photos/seed/801/800/600", "imageHint": "developer coding" },
+    { "id": "service-staff-augmentation-2", "description": "Business meeting discussing project plans.", "imageUrl": "https://picsum.photos/seed/802/800/600", "imageHint": "business meeting" },
+    { "id": "service-staff-augmentation-3", "description": "Piggy bank with coins, representing cost savings.", "imageUrl": "https://picsum.photos/seed/803/800/600", "imageHint": "cost savings" },
+    { "id": "service-staff-augmentation-4", "description": "Team members high-fiving in an office.", "imageUrl": "https://picsum.photos/seed/804/800/600", "imageHint": "team success" },
+    { "id": "service-dedicated-team-1", "description": "Focused team working on a complex project.", "imageUrl": "https://picsum.photos/seed/805/800/600", "imageHint": "focused team" },
+    { "id": "service-dedicated-team-2", "description": "A diverse group of skilled professionals.", "imageUrl": "https://picsum.photos/seed/806/800/600", "imageHint": "expert team" },
+    { "id": "service-dedicated-team-3", "description": "A transparent glass board with project plans.", "imageUrl": "https://picsum.photos/seed/807/800/600", "imageHint": "transparent process" },
+    { "id": "service-dedicated-team-4", "description": "Graphs showing upward growth and scalability.", "imageUrl": "https://picsum.photos/seed/808/800/600", "imageHint": "scalability chart" },
+    { "id": "service-it-staffing-1", "description": "A network of connected professionals.", "imageUrl": "https://picsum.photos/seed/809/800/600", "imageHint": "talent network" },
+    { "id": "service-it-staffing-2", "description": "A magnifying glass over a resume, indicating vetting.", "imageUrl": "https://picsum.photos/seed/810/800/600", "imageHint": "candidate vetting" },
+    { "id": "service-it-staffing-3", "description": "Different puzzle pieces fitting together.", "imageUrl": "https://picsum.photos/seed/811/800/600", "imageHint": "flexible options" },
+    { "id": "service-it-staffing-4", "description": "A clock with a fast-forward symbol.", "imageUrl": "https://picsum.photos/seed/812/800/600", "imageHint": "fast hiring" },
+    { "id": "service-ott-development-1", "description": "Multiple screens showing the same video content.", "imageUrl": "https://picsum.photos/seed/813/800/600", "imageHint": "cross platform" },
+    { "id": "service-ott-development-2", "description": "A padlock icon over a video stream.", "imageUrl": "https://picsum.photos/seed/814/800/600", "imageHint": "secure streaming" },
+    { "id": "service-ott-development-3", "description": "Different currency symbols, representing monetization.", "imageUrl": "https://picsum.photos/seed/815/800/600", "imageHint": "monetization models" },
+    { "id": "service-ott-development-4", "description": "A server room with cloud symbols.", "imageUrl": "https://picsum.photos/seed/816/800/600", "imageHint": "cloud infrastructure" },
+    { "id": "service-aso-1", "description": "A search bar with app keywords.", "imageUrl": "https://picsum.photos/seed/817/800/600", "imageHint": "keyword search" },
+    { "id": "service-aso-2", "description": "An app store listing with an attractive layout.", "imageUrl": "https://picsum.photos/seed/818/800/600", "imageHint": "app listing" },
+    { "id": "service-aso-3", "description": "Five stars with positive user reviews.", "imageUrl": "https://picsum.photos/seed/819/800/600", "imageHint": "user reviews" },
+    { "id": "service-aso-4", "description": "A dashboard with app performance analytics.", "imageUrl": "https://picsum.photos/seed/820/800/600", "imageHint": "analytics dashboard" },
+    { "id": "service-digital-marketing-1", "description": "A website climbing up search engine rankings.", "imageUrl": "https://picsum.photos/seed/821/800/600", "imageHint": "SEO ranking" },
+    { "id": "service-digital-marketing-2", "description": "A graph showing return on investment from PPC.", "imageUrl": "https://picsum.photos/seed/822/800/600", "imageHint": "PPC advertising" },
+    { "id": "service-digital-marketing-3", "description": "A person writing engaging content on a laptop.", "imageUrl": "https://picsum.photos/seed/823/800/600", "imageHint": "content creation" },
+    { "id": "service-digital-marketing-4", "description": "Social media icons connected in a network.", "imageUrl": "https://picsum.photos/seed/824/800/600", "imageHint": "social media" },
+    { "id": "service-software-testing-1", "description": "A person doing both manual and automated testing.", "imageUrl": "https://picsum.photos/seed/825/800/600", "imageHint": "automated testing" },
+    { "id": "service-software-testing-2", "description": "A server under a stress test with high traffic.", "imageUrl": "https://picsum.photos/seed/826/800/600", "imageHint": "load testing" },
+    { "id": "service-software-testing-3", "description": "A shield protecting a computer from cyber threats.", "imageUrl": "https://picsum.photos/seed/827/800/600", "imageHint": "security testing" },
+    { "id": "service-software-testing-4", "description": "An application running on multiple devices.", "imageUrl": "https://picsum.photos/seed/828/800/600", "imageHint": "compatibility testing" }
   ]
 }

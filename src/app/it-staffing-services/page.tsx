@@ -1,23 +1,27 @@
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { CheckCircle2 } from "lucide-react";
+import Image from "next/image";
 
 const features = [
     {
         title: "Access to a Vast Talent Pool",
-        description: "Our extensive network of IT professionals covers a wide range of technologies and roles, ensuring we can find the perfect match for your requirements."
+        description: "Our extensive network of IT professionals covers a wide range of technologies and roles, ensuring we can find the perfect match for your requirements.",
+        imageId: "service-it-staffing-1"
     },
     {
         title: "Rigorous Vetting Process",
-        description: "We conduct thorough technical assessments, background checks, and interviews to ensure you get only the most qualified and reliable candidates."
+        description: "We conduct thorough technical assessments, background checks, and interviews to ensure you get only the most qualified and reliable candidates.",
+        imageId: "service-it-staffing-2"
     },
     {
         title: "Flexible Hiring Options",
-        description: "We offer contract, contract-to-hire, and direct placement options to provide the flexibility your business needs to grow and adapt."
+        description: "We offer contract, contract-to-hire, and direct placement options to provide the flexibility your business needs to grow and adapt.",
+        imageId: "service-it-staffing-3"
     },
     {
         title: "Reduced Time-to-Hire",
-        description: "Our efficient recruitment process significantly shortens the hiring cycle, allowing you to onboard new team members quickly and keep your projects on track."
+        description: "Our efficient recruitment process significantly shortens the hiring cycle, allowing you to onboard new team members quickly and keep your projects on track.",
+        imageId: "service-it-staffing-4"
     },
 ];
 
@@ -41,16 +45,30 @@ export default function ItStaffingServices() {
                 We take the time to understand your company culture, technical needs, and project goals to ensure a perfect fit. Our goal is to build long-term partnerships by providing staffing solutions that contribute directly to your business's growth and innovation.
             </p>
 
-            <div className="grid md:grid-cols-2 gap-8 pt-8">
-                {features.map((feature, index) => (
-                    <div key={index} className="flex items-start">
-                        <CheckCircle2 className="h-8 w-8 text-primary mr-4 mt-1 shrink-0" />
-                        <div>
-                            <h3 className="font-semibold text-xl mb-2">{feature.title}</h3>
-                            <p className="text-muted-foreground">{feature.description}</p>
+            <div className="space-y-16 pt-12">
+                {features.map((feature, index) => {
+                    const featureImage = PlaceHolderImages.find(img => img.id === feature.imageId);
+                    const isReversed = index % 2 !== 0;
+                    return (
+                        <div key={index} className="grid md:grid-cols-2 gap-12 items-center">
+                            <div className={`relative h-80 w-full ${isReversed ? 'md:order-last' : ''}`}>
+                                {featureImage && (
+                                    <Image
+                                        src={featureImage.imageUrl}
+                                        alt={featureImage.description}
+                                        fill
+                                        className="object-cover rounded-lg shadow-lg"
+                                        data-ai-hint={featureImage.imageHint}
+                                    />
+                                )}
+                            </div>
+                            <div className="space-y-4">
+                                <h3 className="font-semibold text-2xl">{feature.title}</h3>
+                                <p className="text-muted-foreground text-lg">{feature.description}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
         </div>
     </ServicePageLayout>

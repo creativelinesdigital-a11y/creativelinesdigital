@@ -1,23 +1,27 @@
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { CheckCircle2 } from "lucide-react";
+import Image from "next/image";
 
 const features = [
     {
         title: "Search Engine Optimization (SEO)",
-        description: "Improve your website's visibility on search engines and attract high-quality organic traffic with our proven SEO strategies."
+        description: "Improve your website's visibility on search engines and attract high-quality organic traffic with our proven SEO strategies.",
+        imageId: "service-digital-marketing-1"
     },
     {
         title: "Pay-Per-Click (PPC) Advertising",
-        description: "Get instant results with targeted PPC campaigns on platforms like Google Ads and social media. We manage your budget to maximize ROI."
+        description: "Get instant results with targeted PPC campaigns on platforms like Google Ads and social media. We manage your budget to maximize ROI.",
+        imageId: "service-digital-marketing-2"
     },
     {
         title: "Content Marketing",
-        description: "Engage your audience and build authority with high-quality blog posts, articles, videos, and other content tailored to your brand."
+        description: "Engage your audience and build authority with high-quality blog posts, articles, videos, and other content tailored to your brand.",
+        imageId: "service-digital-marketing-3"
     },
     {
         title: "Social Media Marketing",
-        description: "Build a strong community and drive engagement with strategic social media campaigns across all relevant platforms."
+        description: "Build a strong community and drive engagement with strategic social media campaigns across all relevant platforms.",
+        imageId: "service-digital-marketing-4"
     },
 ];
 
@@ -41,16 +45,30 @@ export default function DigitalMarketing() {
                 Our team of marketing experts works with you to develop a tailored strategy that aligns with your business objectives. From SEO and PPC to content and social media marketing, we use a multi-channel approach to build your brand, engage your customers, and deliver measurable results.
             </p>
 
-            <div className="grid md:grid-cols-2 gap-8 pt-8">
-                {features.map((feature, index) => (
-                    <div key={index} className="flex items-start">
-                        <CheckCircle2 className="h-8 w-8 text-primary mr-4 mt-1 shrink-0" />
-                        <div>
-                            <h3 className="font-semibold text-xl mb-2">{feature.title}</h3>
-                            <p className="text-muted-foreground">{feature.description}</p>
+            <div className="space-y-16 pt-12">
+                {features.map((feature, index) => {
+                    const featureImage = PlaceHolderImages.find(img => img.id === feature.imageId);
+                    const isReversed = index % 2 !== 0;
+                    return (
+                        <div key={index} className="grid md:grid-cols-2 gap-12 items-center">
+                            <div className={`relative h-80 w-full ${isReversed ? 'md:order-last' : ''}`}>
+                                {featureImage && (
+                                    <Image
+                                        src={featureImage.imageUrl}
+                                        alt={featureImage.description}
+                                        fill
+                                        className="object-cover rounded-lg shadow-lg"
+                                        data-ai-hint={featureImage.imageHint}
+                                    />
+                                )}
+                            </div>
+                            <div className="space-y-4">
+                                <h3 className="font-semibold text-2xl">{feature.title}</h3>
+                                <p className="text-muted-foreground text-lg">{feature.description}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
         </div>
     </ServicePageLayout>

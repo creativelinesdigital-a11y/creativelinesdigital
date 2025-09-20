@@ -1,23 +1,27 @@
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
-import { CheckCircle2 } from "lucide-react";
+import Image from "next/image";
 
 const features = [
     {
         title: "Cross-Platform Compatibility",
-        description: "We build OTT applications that deliver a seamless experience across a wide range of devices, including smart TVs, mobile phones, tablets, and web browsers."
+        description: "We build OTT applications that deliver a seamless experience across a wide range of devices, including smart TVs, mobile phones, tablets, and web browsers.",
+        imageId: "service-ott-development-1"
     },
     {
         title: "Secure Video Streaming",
-        description: "Our solutions include robust DRM and content protection to secure your valuable video assets and prevent unauthorized access."
+        description: "Our solutions include robust DRM and content protection to secure your valuable video assets and prevent unauthorized access.",
+        imageId: "service-ott-development-2"
     },
     {
         title: "Monetization Models",
-        description: "We integrate various monetization strategies, including subscription-based (SVOD), transaction-based (TVOD), and ad-supported (AVOD) models."
+        description: "We integrate various monetization strategies, including subscription-based (SVOD), transaction-based (TVOD), and ad-supported (AVOD) models.",
+        imageId: "service-ott-development-3"
     },
     {
         title: "Scalable Cloud Infrastructure",
-        description: "Leveraging powerful cloud platforms, we ensure your OTT service can handle high traffic loads and scale effortlessly as your audience grows."
+        description: "Leveraging powerful cloud platforms, we ensure your OTT service can handle high traffic loads and scale effortlessly as your audience grows.",
+        imageId: "service-ott-development-4"
     },
 ];
 
@@ -41,16 +45,30 @@ export default function OttAppDevelopment() {
                 From live streaming to video-on-demand (VOD), we build feature-rich applications with exceptional user experiences. Our team handles everything from backend infrastructure and content management systems to front-end applications for all major platforms, giving you a complete, market-ready solution.
             </p>
 
-            <div className="grid md:grid-cols-2 gap-8 pt-8">
-                {features.map((feature, index) => (
-                    <div key={index} className="flex items-start">
-                        <CheckCircle2 className="h-8 w-8 text-primary mr-4 mt-1 shrink-0" />
-                        <div>
-                            <h3 className="font-semibold text-xl mb-2">{feature.title}</h3>
-                            <p className="text-muted-foreground">{feature.description}</p>
+            <div className="space-y-16 pt-12">
+                {features.map((feature, index) => {
+                    const featureImage = PlaceHolderImages.find(img => img.id === feature.imageId);
+                    const isReversed = index % 2 !== 0;
+                    return (
+                        <div key={index} className="grid md:grid-cols-2 gap-12 items-center">
+                            <div className={`relative h-80 w-full ${isReversed ? 'md:order-last' : ''}`}>
+                                {featureImage && (
+                                    <Image
+                                        src={featureImage.imageUrl}
+                                        alt={featureImage.description}
+                                        fill
+                                        className="object-cover rounded-lg shadow-lg"
+                                        data-ai-hint={featureImage.imageHint}
+                                    />
+                                )}
+                            </div>
+                            <div className="space-y-4">
+                                <h3 className="font-semibold text-2xl">{feature.title}</h3>
+                                <p className="text-muted-foreground text-lg">{feature.description}</p>
+                            </div>
                         </div>
-                    </div>
-                ))}
+                    );
+                })}
             </div>
         </div>
     </ServicePageLayout>
