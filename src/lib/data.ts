@@ -219,13 +219,13 @@ export const footerData = {
         {
             title: "Solutions",
             links: [
-                { label: "Staff Augmentation", href: "#" },
-                { label: "Dedicated Development Team", href: "#" },
-                { label: "IT Staffing Services", href: "#" },
-                { label: "OTT App Development", href: "#" },
-                { label: "App Store Optimization", href: "#" },
-                { label: "Digital Marketing", href: "#" },
-                { label: "Software Testing", href: "#" },
+                { label: "Staff Augmentation", href: "/staff-augmentation" },
+                { label: "Dedicated Development Team", href: "/dedicated-development-team" },
+                { label: "IT Staffing Services", href: "/it-staffing-services" },
+                { label: "OTT App Development", href: "/ott-app-development" },
+                { label: "App Store Optimization", href: "/app-store-optimization" },
+                { label: "Digital Marketing", href: "/digital-marketing" },
+                { label: "Software Testing", href: "/software-testing" },
             ]
         },
         {
