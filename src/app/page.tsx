@@ -12,7 +12,6 @@ import WorkflowSection from "@/components/sections/workflow";
 import TestimonialsSection from "@/components/sections/testimonials";
 import AwardsSection from "@/components/sections/awards";
 import BlogSection from "@/components/sections/blog";
-import FaqSection from "@/components/sections/faq-section";
 import ImageGallerySection from "@/components/sections/image-gallery-section";
 
 export default function Home() {
@@ -32,7 +31,6 @@ export default function Home() {
         <TestimonialsSection />
         <AwardsSection />
         <ImageGallerySection />
-        <FaqSection />
         <BlogSection />
       </main>
       <Footer />
