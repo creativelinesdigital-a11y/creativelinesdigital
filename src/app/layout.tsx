@@ -4,7 +4,7 @@ import { Toaster } from "@/components/ui/toaster";
 import { ContactSheetProvider } from "@/components/layout/contact-sheet-provider";
 
 export const metadata: Metadata = {
-  title: "Global Digital Transformation Agency | Binate Digital",
+  title: "Global Digital Transformation Agency | Creative Lines Digital",
   description:
     "We are a one-stop global digital transformation company that masters the best mobile app and web development solutions. Trust our expertise with any and every digital solution you require.",
 };

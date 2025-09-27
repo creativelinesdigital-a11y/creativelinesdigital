@@ -16,7 +16,7 @@ const UiUxSection = () => {
                         Custom <span className="gradient-text">UI/UX Design and Development</span>
                     </h2>
                     <p className="text-muted-foreground mt-4 text-lg">
-                        Just like appearance is one of the first things people notice, the user interface is the first thing noticed by visitors. At Binate Digital, we understand the importance of making a great first impression.
+                        Just like appearance is one of the first things people notice, the user interface is the first thing noticed by visitors. At Creative Lines Digital, we understand the importance of making a great first impression.
                     </p>
                 </div>
                 <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 items-center">

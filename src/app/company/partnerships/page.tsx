@@ -15,7 +15,7 @@ export default function PartnershipsPage() {
     >
         <div className="space-y-8 text-lg text-muted-foreground">
             <p>
-                At Binate Digital, we believe in the power of collaboration. Our strategic partnerships with industry leaders in cloud computing, software development, and digital marketing enable us to extend our capabilities and provide our clients with comprehensive, state-of-the-art solutions.
+                At Creative Lines Digital, we believe in the power of collaboration. Our strategic partnerships with industry leaders in cloud computing, software development, and digital marketing enable us to extend our capabilities and provide our clients with comprehensive, state-of-the-art solutions.
             </p>
             <p>
                 By aligning with technology giants and innovative platforms, we ensure that our team is always at the forefront of the latest trends and best practices. These alliances allow us to leverage proven technologies to build scalable, secure, and future-proof applications for your business.

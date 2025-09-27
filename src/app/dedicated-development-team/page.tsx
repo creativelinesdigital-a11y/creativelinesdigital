@@ -39,7 +39,7 @@ export default function DedicatedDevelopmentTeam() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                When your project requires long-term commitment and a deep understanding of your business domain, a dedicated development team is the perfect solution. Binate Digital provides a hand-selected team of professionals who act as a remote extension of your own, fully integrated and aligned with your goals.
+                When your project requires long-term commitment and a deep understanding of your business domain, a dedicated development team is the perfect solution. Creative Lines Digital provides a hand-selected team of professionals who act as a remote extension of your own, fully integrated and aligned with your goals.
             </p>
             <p className="text-muted-foreground">
                 This model gives you access to a stable, scalable, and highly skilled team without the complexities of in-house recruitment and management. We handle the administrative overhead, while you get a team that is 100% focused on bringing your product to life, from initial concept to launch and beyond.

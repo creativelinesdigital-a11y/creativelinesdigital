@@ -22,7 +22,7 @@ const TestimonialsSection = () => {
                     Hear From Our <span className="gradient-text">Esteemed Clients</span>
                 </h2>
                 <p className="text-muted-foreground text-lg">
-                    Our clients' success stories are the best measure of our own. Discover why businesses trust Binate Digital to bring their visions to life.
+                    Our clients' success stories are the best measure of our own. Discover why businesses trust Creative Lines Digital to bring their visions to life.
                 </p>
             </div>
             <div className="relative">

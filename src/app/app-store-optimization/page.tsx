@@ -42,7 +42,7 @@ export default function AppStoreOptimization() {
                 Having a great app is only half the battle. To succeed, your app needs to be discoverable. App Store Optimization (ASO) is the key to improving your app's visibility in the Apple App Store and Google Play Store, leading to increased organic downloads from high-quality users.
             </p>
             <p className="text-muted-foreground">
-                At Binate Digital, our ASO experts use a data-driven approach to enhance your app's presence. We analyze your market, competitors, and target audience to develop a comprehensive strategy that covers all aspects of your app store listing, driving sustainable growth and maximizing your return on investment.
+                At Creative Lines Digital, our ASO experts use a data-driven approach to enhance your app's presence. We analyze your market, competitors, and target audience to develop a comprehensive strategy that covers all aspects of your app store listing, driving sustainable growth and maximizing your return on investment.
             </p>
 
             <div className="space-y-16 pt-12">

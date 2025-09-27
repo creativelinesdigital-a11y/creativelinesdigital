@@ -223,9 +223,9 @@ export const workflowSteps = [
 
 export const testimonials = [
     { id: 1, name: "Tobias McDonald", company: "GMB", quote: "I needed a website on an urgent basis. These guys did it within two weeks. From content creation to the final launch, there were hardly any glitches. I would recommend them to anyone!", avatarUrl: findImage('testimonial-1').url, imageHint: findImage('testimonial-1').hint },
-    { id: 2, name: "Tom Richards", company: "Bark", quote: "We needed a reliable app partner, and Binate Digital exceeded every expectation. Our enterprise app runs smoothly, and their support team is always ready to help. They’re now our go-to for all development needs.", avatarUrl: findImage('testimonial-2').url, imageHint: findImage('testimonial-2').hint },
-    { id: 3, name: "Roger Smith", company: "GMB", quote: "We came to Binate Digital with nothing but an idea. I was worried about communicating the ‘vibe’ of our brand, but they got it right away. They were super organized and kept us updated.", avatarUrl: findImage('testimonial-3').url, imageHint: findImage('testimonial-3').hint },
-    { id: 4, name: "Jessica Gomez", company: "Bark", quote: "From our initial call to the final product launch, the Binate Digital team was outstanding. They built a custom social networking app that’s both scalable and visually stunning.", avatarUrl: findImage('testimonial-4').url, imageHint: findImage('testimonial-4').hint },
+    { id: 2, name: "Tom Richards", company: "Bark", quote: "We needed a reliable app partner, and Creative Lines Digital exceeded every expectation. Our enterprise app runs smoothly, and their support team is always ready to help. They’re now our go-to for all development needs.", avatarUrl: findImage('testimonial-2').url, imageHint: findImage('testimonial-2').hint },
+    { id: 3, name: "Roger Smith", company: "GMB", quote: "We came to Creative Lines Digital with nothing but an idea. I was worried about communicating the ‘vibe’ of our brand, but they got it right away. They were super organized and kept us updated.", avatarUrl: findImage('testimonial-3').url, imageHint: findImage('testimonial-3').hint },
+    { id: 4, name: "Jessica Gomez", company: "Bark", quote: "From our initial call to the final product launch, the Creative Lines Digital team was outstanding. They built a custom social networking app that’s both scalable and visually stunning.", avatarUrl: findImage('testimonial-4').url, imageHint: findImage('testimonial-4').hint },
 ];
 
 export const awards = [
@@ -238,7 +238,7 @@ export const awards = [
 ];
 
 export const blogPosts = [
-    { id: 1, title: "Figma Workshop Session", excerpt: "Designing digital experiences that are easy to use is of utmost importance. A workshop conducted by Binate Digital was exclusively dedicated to enhancing the understanding of Figma.", href: "#", imageUrl: findImage('blog-1').url, imageHint: findImage('blog-1').hint },
+    { id: 1, title: "Figma Workshop Session", excerpt: "Designing digital experiences that are easy to use is of utmost importance. A workshop conducted by Creative Lines Digital was exclusively dedicated to enhancing the understanding of Figma.", href: "#", imageUrl: findImage('blog-1').url, imageHint: findImage('blog-1').hint },
     { id: 2, title: "20 Best Artificial Intelligence Apps For iPhone", excerpt: "When we peek into the future, all we see is technology shifting its shape. The power of mobile app modification is going to grow as time passes, and it will break infinite boundaries.", href: "#", imageUrl: findImage('blog-2').url, imageHint: findImage('blog-2').hint },
     { id: 3, title: "Guide to Ecommerce App Development", excerpt: "The world has observed a vast change in e-commerce. Have you ever thought about what is driving such a change? The answer is e-commerce mobile apps.", href: "#", imageUrl: findImage('blog-3').url, imageHint: findImage('blog-3').hint },
 ];

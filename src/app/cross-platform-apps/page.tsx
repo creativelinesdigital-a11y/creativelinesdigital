@@ -39,7 +39,7 @@ export default function CrossPlatformApps() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In a world dominated by both iOS and Android, cross-platform development offers a strategic advantage. Binate Digital creates beautiful, high-performance mobile apps that run seamlessly on both platforms, allowing you to save time, reduce costs, and reach your entire target market with a single product.
+                In a world dominated by both iOS and Android, cross-platform development offers a strategic advantage. Creative Lines Digital creates beautiful, high-performance mobile apps that run seamlessly on both platforms, allowing you to save time, reduce costs, and reach your entire target market with a single product.
             </p>
             <p className="text-muted-foreground">
                 Our developers are experts in leading cross-platform frameworks like React Native and Flutter. We craft applications that provide a native-like look, feel, and performance, ensuring your users have a top-tier experience, regardless of their device. From initial design to deployment, we deliver a unified and efficient development process.

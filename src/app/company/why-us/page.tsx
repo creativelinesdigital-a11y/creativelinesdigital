@@ -7,7 +7,7 @@ export default function WhyUsPage() {
 
   return (
     <ServicePageLayout
-        title="Why Choose Binate Digital?"
+        title="Why Choose Creative Lines Digital?"
         description="Discover the key differentiators that make us the right partner for your digital transformation journey."
         imageUrl={image.imageUrl}
         imageHint={image.imageHint}

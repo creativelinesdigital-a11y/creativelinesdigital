@@ -29,7 +29,7 @@ const AboutSection = () => {
                             In today's rapidly evolving digital landscape, businesses face increasing pressure to stay ahead of the curve. To succeed, companies must innovate and adapt, yet many struggle to dedicate the necessary resources to fully realize their potential.
                         </p>
                         <p className="text-muted-foreground">
-                            Binate Digital offers the solution. As a leading global digital tech company, we specialize in crafting innovative digital experiences that drive transformation. From strategy and design to development and deployment, our team works with you to deliver solutions tailored to your business objectives. Whether you're looking to optimize operations, enhance customer engagement, or leverage emerging technologies, we provide the expertise to turn your vision into reality.
+                            Creative Lines Digital offers the solution. As a leading global digital tech company, we specialize in crafting innovative digital experiences that drive transformation. From strategy and design to development and deployment, our team works with you to deliver solutions tailored to your business objectives. Whether you're looking to optimize operations, enhance customer engagement, or leverage emerging technologies, we provide the expertise to turn your vision into reality.
                         </p>
                         <div className="pt-4">
                             <ContactButton size="lg" />

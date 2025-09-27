@@ -39,7 +39,7 @@ export default function DigitalMarketing() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In a digital-first world, a strong online presence is essential for business growth. Binate Digital offers a full suite of digital marketing services designed to help you reach your target audience, generate leads, and increase revenue.
+                In a digital-first world, a strong online presence is essential for business growth. Creative Lines Digital offers a full suite of digital marketing services designed to help you reach your target audience, generate leads, and increase revenue.
             </p>
             <p className="text-muted-foreground">
                 Our team of marketing experts works with you to develop a tailored strategy that aligns with your business objectives. From SEO and PPC to content and social media marketing, we use a multi-channel approach to build your brand, engage your customers, and deliver measurable results.
