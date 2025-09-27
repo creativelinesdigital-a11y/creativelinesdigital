@@ -7,6 +7,8 @@ export default function FigmaWorkshopPage() {
   const image = PlaceHolderImages.find(img => img.id === 'blog-1');
   if (!image) return null;
 
+  const getImage = (id: string) => PlaceHolderImages.find(img => img.id === id);
+
   return (
     <ServicePageLayout
         title="Figma Workshop Session"
@@ -27,13 +29,50 @@ export default function FigmaWorkshopPage() {
                 <li>
                     <strong>Streamlined Collaboration:</strong> We explored how Figma's real-time collaboration features can break down silos between designers, developers, and project managers, leading to a more integrated and efficient workflow.
                 </li>
+            </ul>
+            {getImage('blog-figma-1') && (
+                <div className="relative h-80 w-full my-6">
+                    <Image
+                        src={getImage('blog-figma-1')!.imageUrl}
+                        alt={getImage('blog-figma-1')!.description}
+                        fill
+                        className="object-cover rounded-lg shadow-lg"
+                        data-ai-hint={getImage('blog-figma-1')!.imageHint}
+                    />
+                </div>
+            )}
+             <ul className="space-y-4 list-disc list-inside">
                 <li>
                     <strong>Building a Robust Design System:</strong> A significant portion of the workshop was dedicated to creating and maintaining a robust design system. This ensures brand consistency across all digital touchpoints and accelerates the design process.
                 </li>
+             </ul>
+            {getImage('blog-figma-2') && (
+                <div className="relative h-80 w-full my-6">
+                    <Image
+                        src={getImage('blog-figma-2')!.imageUrl}
+                        alt={getImage('blog-figma-2')!.description}
+                        fill
+                        className="object-cover rounded-lg shadow-lg"
+                        data-ai-hint={getImage('blog-figma-2')!.imageHint}
+                    />
+                </div>
+            )}
+             <ul className="space-y-4 list-disc list-inside">
                 <li>
                     <strong>Advanced Prototyping:</strong> Participants learned how to create complex, interactive prototypes that closely mimic the final user experience, allowing for more effective user testing and stakeholder feedback.
                 </li>
             </ul>
+             {getImage('blog-figma-3') && (
+                <div className="relative h-80 w-full my-6">
+                    <Image
+                        src={getImage('blog-figma-3')!.imageUrl}
+                        alt={getImage('blog-figma-3')!.description}
+                        fill
+                        className="object-cover rounded-lg shadow-lg"
+                        data-ai-hint={getImage('blog-figma-3')!.imageHint}
+                    />
+                </div>
+            )}
             <p>
                 Investing in our team's skills is an investment in our clients' success. This Figma workshop is just one of the many ways we ensure that Creative Lines Digital remains at the forefront of digital innovation, ready to tackle any design challenge with creativity and expertise.
             </p>

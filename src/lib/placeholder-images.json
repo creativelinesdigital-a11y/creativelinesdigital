@@ -9,13 +9,13 @@
     {
       "id": "about-1",
       "description": "Two abstract swirling shapes, one blue and one orange, representing digital transformation.",
-      "imageUrl": "https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMHNoYXBlc3xlbnwwfHx8fDE3NTg5NzI5OTB8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMHNoYXBlc3xlbnwwfHx8fDE3NTg5NzI5OTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "abstract shapes"
     },
     {
       "id": "uiux-1",
       "description": "A smartphone showcasing a clean and modern app interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1758770478125-4850521fd941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzU4OTE4OTEwfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758770478125-4850521fd941?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxhcHAlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzU4OTE4OTEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "app interface"
     },
     {
@@ -27,13 +27,13 @@
     {
       "id": "cta-1",
       "description": "A diverse group of professionals working together on a project.",
-      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaXZlcnNlJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaXZlcnNlJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "diverse team"
     },
     {
       "id": "testimonial-1",
       "description": "Portrait of a smiling professional man.",
-      "imageUrl": "https://images.unsplash.com/flagged/photo-1553642618-de0381320ff3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjBtYW58ZW58MHx8fHwxNzU4OTIzNTUzfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/flagged/photo-1553642618-de0381320ff3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9mZXNzaW9uYWwlMjBtYW58ZW58MHx8fHwxNzU4OTIzNTUzfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "professional man"
     },
     {
@@ -107,6 +107,66 @@
       "description": "A shopping cart icon on a screen, representing e-commerce development.",
       "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlY29tbWVyY2UlMjBjb25jZXB0fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "ecommerce concept"
+    },
+    {
+      "id": "blog-figma-1",
+      "description": "A team of designers collaborating on a project using digital tools.",
+      "imageUrl": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NTg5MDg0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "blog-figma-2",
+      "description": "A complex design system with various UI components.",
+      "imageUrl": "https://images.unsplash.com/photo-1602576666092-bf6447a729fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXNpZ24lMjBzeXN0ZW18ZW58MHx8fHwxNzU4OTk3NDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "design system"
+    },
+    {
+      "id": "blog-figma-3",
+      "description": "An interactive prototype of a mobile application.",
+      "imageUrl": "https://images.unsplash.com/photo-1748801583967-3038967d7279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhcHAlMjBwcm90b3R5cGV8ZW58MHx8fHwxNzU4OTk3NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app prototype"
+    },
+    {
+      "id": "blog-ai-1",
+      "description": "A personal assistant on a smartphone screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1526948531399-320e7e40f0ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJzb25hbCUyMGFzc2lzdGFudHxlbnwwfHx8fDE3NTg5OTc0MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "personal assistant"
+    },
+    {
+      "id": "blog-ai-2",
+      "description": "AI generated art and media.",
+      "imageUrl": "https://images.unsplash.com/photo-1633311905139-7b6088a69e33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxBSSUyMGFydHxlbnwwfHx8fDE3NTg5MjgyNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI art"
+    },
+    {
+      "id": "blog-ai-3",
+      "description": "A health and wellness app on a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1643064723514-1ed7c6f77e17?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3ZWxsbmVzcyUyMGFwcHxlbnwwfHx8fDE3NTg5OTc0MTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wellness app"
+    },
+    {
+      "id": "blog-ecom-1",
+      "description": "A person outlining a business strategy.",
+      "imageUrl": "https://images.unsplash.com/photo-1529119368496-2dfda6ec2804?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxidXNpbmVzcyUyMHN0cmF0ZWd5fGVufDB8fHx8MTc1ODk0MjgzOXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "business strategy"
+    },
+    {
+      "id": "blog-ecom-2",
+      "description": "A designer creating wireframes for an app.",
+      "imageUrl": "https://images.unsplash.com/photo-1576153192396-180ecef2a715?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcHAlMjBkZXNpZ258ZW58MHx8fHwxNzU4OTM3MTEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app design"
+    },
+    {
+      "id": "blog-ecom-3",
+      "description": "Code on a screen representing technology stack.",
+      "imageUrl": "https://images.unsplash.com/photo-1593086784152-b060f8109e0c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjb2RpbmclMjBzY3JlZW58ZW58MHx8fHwxNzU4OTE2NjY3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coding screen"
+    },
+    {
+      "id": "blog-ecom-4",
+      "description": "A smartphone showing an app being launched.",
+      "imageUrl": "https://images.unsplash.com/photo-1730817403280-1b0b8a01efbe?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhcHAlMjBsYXVuY2h8ZW58MHx8fHwxNzU4OTk3NDEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "app launch"
     },
     {
       "id": "case-1",
@@ -339,7 +399,7 @@
     {
       "id": "service-dedicated-team-2",
       "description": "A diverse group of skilled professionals.",
-      "imageUrl": "https://images.unsplash.com/photo-1650784854945-264d5b0b6b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxleHBlcnQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1650784854945-264d5b0b6b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHhleHBlcnQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "expert team"
     },
     {
@@ -1299,7 +1359,7 @@
     {
       "id": "page-refund-policy",
       "description": "A person returning a product at a customer service desk, representing a refund process.",
-      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWZ1bmR8ZW58MHx8fHwxNzU5MDk4MDgyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxyZWZ1bmR8ZW58MHx8fHwxNzU5MDk4MDgyfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "refund process"
     },
     {
