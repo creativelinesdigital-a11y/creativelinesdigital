@@ -129,11 +129,11 @@ export const navLinks = [
   },
   {
     title: "Technologies",
-    href: "#",
+    href: "/technologies",
   },
   {
     title: "Case Studies",
-    href: "#",
+    href: "/case-studies",
   },
 ];
 

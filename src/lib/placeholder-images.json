@@ -1059,44 +1059,56 @@
     {
       "id": "page-about",
       "description": "A diverse group of professionals in a vibrant office, brainstorming with sticky notes on a glass wall.",
-      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaXZlcnNlJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxkaXZlcnNlJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "diverse team"
     },
     {
       "id": "page-life-at-binate",
       "description": "A modern, open-plan office with employees collaborating and smiling, creating a positive work environment.",
-      "imageUrl": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvZmZpY2UlMjBjdWx0dXJlfGVufDB8fHx8MTc1ODk2NjE1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1568992687947-868a62a9f521?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvZmZpY2UlMjBjdWx0dXJlfGVufDB8fHx8MTc1ODk2NjE1NHww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "office culture"
     },
     {
       "id": "page-why-us",
       "description": "A magnifying glass focusing on a gear, symbolizing precision, expertise, and a focus on detail.",
-      "imageUrl": "https://images.unsplash.com/photo-1758866740648-fff0380dd313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxleHBlcnRpc2UlMjBwcmVjaXNpb258ZW58MHx8fHwxNzU4OTg5MzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758866740648-fff0380dd313?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxleHBlcnRpc2UlMjBwcmVjaXNpb258ZW58MHx8fHwxNzU4OTg5MzQ1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "expertise precision"
     },
     {
       "id": "page-partnerships",
       "description": "Two business professionals shaking hands in a modern office, sealing a partnership agreement.",
-      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMGhhbmRzaGFrZXxlbnwwfHx8fDE3NTg5MjcyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMGhhbmRzaGFrZXxlbnwwfHx8fDE3NTg5MjcyMjV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "business handshake"
     },
     {
       "id": "page-blog",
       "description": "A stylish flat lay of a laptop, notebook, coffee, and glasses on a wooden desk, representing a writer's workspace.",
-      "imageUrl": "https://images.unsplash.com/photo-1612736232022-691d6243202b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3cml0ZXIlMjB3b3Jrc3BhY2V8ZW58MHx8fHwxNzU4OTg5MzQ1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1612736232022-691d6243202b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx3cml0ZXIlMjB3b3Jrc3BhY2V8ZW58MHx8fHwxNzU4OTg5MzQ1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "writer workspace"
     },
     {
       "id": "page-contact-us",
       "description": "A friendly customer support representative with a headset on, smiling and ready to help.",
-      "imageUrl": "https://images.unsplash.com/photo-1553775282-20af80779df7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjdXN0b21lciUyMHN1cHBvcnR8ZW58MHx8fHwxNzU4OTExOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1553775282-20af80779df7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjdXN0b21lciUyMHN1cHBvcnR8ZW58MHx8fHwxNzU4OTExOTI2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "customer support"
     },
     {
       "id": "page-austin",
       "description": "The iconic Austin, Texas skyline at dusk, with the Congress Avenue Bridge and city lights.",
-      "imageUrl": "https://images.unsplash.com/photo-1625278152200-ae2d1fc87c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxBdXN0aW4lMjBza3lsaW5lfGVufDB8fHx8MTc1ODk4OTM0NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1625278152200-ae2d1fc87c5f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxBdXN0aW4lMjBza3lsaW5lfGVufDB8fHx8MTc1ODk4OTM0NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Austin skyline"
+    },
+    {
+      "id": "page-technologies",
+      "description": "An abstract visualization of interconnected technology nodes and data streams.",
+      "imageUrl": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWNobm9sb2d5fGVufDB8fHx8MTc1OTAwMDMyMXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology network"
+    },
+    {
+      "id": "page-case-studies",
+      "description": "A person analyzing charts and graphs on a screen, representing a successful case study.",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e28f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3Rvcnl8ZW58MHx8fHwxNzU5MDAwMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "success story"
     }
   ]
 }
