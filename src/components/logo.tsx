@@ -27,17 +27,17 @@ const Logo = (props: React.SVGProps<SVGSVGElement>) => (
       fontWeight="bold"
       className="fill-foreground"
     >
-      Creative
+      Creative Lines
     </text>
     <text
-      x="95"
+      x="135"
       y="27"
       fontFamily="Inter, sans-serif"
       fontSize="16"
       fontWeight="normal"
       className="fill-muted-foreground"
     >
-      Lines Digital
+      Digital
     </text>
   </svg>
 );
