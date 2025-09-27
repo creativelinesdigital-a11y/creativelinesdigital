@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { footerData } from "@/lib/data";
@@ -11,7 +12,7 @@ export default function AustinPage() {
   return (
     <ServicePageLayout
         title="Our Austin, TX Office"
-        description="Binate Digital is proud to be part of the vibrant tech community in Austin, Texas."
+        description="Creative Lines Digital is proud to be part of the vibrant tech community in Austin, Texas."
         imageUrl={image.imageUrl}
         imageHint={image.imageHint}
         imageAlt={image.description}
@@ -21,9 +22,8 @@ export default function AustinPage() {
                 Our Austin office is strategically located in the heart of one of America's fastest-growing tech hubs. This presence allows us to serve our clients in the region with a local touch while leveraging our global talent network.
             </p>
             <div className="bg-secondary p-8 rounded-lg">
-                <h3 className="text-2xl font-semibold text-foreground mb-4">Visit Us</h3>
+                <h3 className="text-2xl font-semibold text-foreground mb-4">Our Location</h3>
                 <p className="text-xl font-medium text-foreground">{austinLocation.city}</p>
-                <p className="mt-2">{austinLocation.address}</p>
             </div>
             <p>
                 Whether you're a startup looking to make your mark or an established enterprise seeking to innovate, our Austin team is ready to partner with you to achieve your digital ambitions.
@@ -32,3 +32,5 @@ export default function AustinPage() {
     </ServicePageLayout>
   );
 }
+
+    

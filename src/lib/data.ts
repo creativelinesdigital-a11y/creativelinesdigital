@@ -1,3 +1,4 @@
+
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 const findImage = (id: string) => {
@@ -311,14 +312,12 @@ export const footerData = {
         }
     ],
     locations: [
-        { city: "Austin TX, USA", address: "600 Congress Ave, 14th Floor, Austin, TX 78701" },
-        { city: "Dubai, UAE", address: "Building A1, Dubai Digital Park, Dubai Silicon Oasis" },
-        { city: "Guangzhou, China", address: "Room 3311, East Tower, Yangcheng Intl Commercial Center" },
-        { city: "Karachi, Pakistan", address: "Suite No. 108, 1st Floor, Park Avenue, Shahra-e-Faisal" },
+        { city: "Austin TX, USA" },
+        { city: "Dubai, UAE" },
+        { city: "Guangzhou, China" },
+        { city: "Karachi, Pakistan" },
     ],
     contact: {
-        phone1: "856-243-6180",
-        phone2: "713-405-3098",
         email: "creativelinesdigital@gmail.com",
     },
     socials: [
@@ -336,3 +335,5 @@ export const footerData = {
         { label: "Terms & Condition", href: "#" },
     ]
 };
+
+    

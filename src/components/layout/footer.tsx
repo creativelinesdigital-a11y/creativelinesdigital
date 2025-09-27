@@ -1,3 +1,4 @@
+
 import Link from "next/link";
 import Logo from "@/components/logo";
 import {
@@ -56,7 +57,6 @@ const Footer = () => {
                 {footerData.locations.map((location, index) => (
                     <div key={index}>
                         <h4 className="font-medium text-foreground">{location.city}</h4>
-                        <p className="text-muted-foreground text-sm">{location.address}</p>
                     </div>
                 ))}
             </div>
@@ -65,14 +65,6 @@ const Footer = () => {
         <div className="border-t border-border pt-8">
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 items-center text-center md:text-left">
             <div className="flex flex-col gap-2">
-                <a href={`tel:${footerData.contact.phone1.replace(/\s/g, '')}`} className="flex items-center justify-center md:justify-start gap-2 text-muted-foreground hover:text-primary transition-colors">
-                    <Phone size={16} />
-                    <span>{footerData.contact.phone1}</span>
-                </a>
-                 <a href={`tel:${footerData.contact.phone2.replace(/\s/g, '')}`} className="flex items-center justify-center md:justify-start gap-2 text-muted-foreground hover:text-primary transition-colors">
-                    <Phone size={16} />
-                    <span>{footerData.contact.phone2}</span>
-                </a>
                 <a href={`mailto:${footerData.contact.email}`} className="flex items-center justify-center md:justify-start gap-2 text-muted-foreground hover:text-primary transition-colors">
                     <Mail size={16} />
                     <span>{footerData.contact.email}</span>
@@ -113,3 +105,5 @@ const Footer = () => {
 };
 
 export default Footer;
+
+    

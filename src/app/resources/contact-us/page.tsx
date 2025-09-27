@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import { ContactButton } from "@/components/contact-button";
@@ -22,23 +23,12 @@ export default function ContactUsPage() {
                 <ContactButton size="lg" />
             </div>
 
-            <div className="grid md:grid-cols-2 gap-8 text-lg">
+            <div className="grid md:grid-cols-1 gap-8 text-lg text-center">
                 <div className="space-y-4">
                     <h3 className="text-2xl font-semibold text-foreground">Email Us</h3>
-                    <a href="mailto:info@binatedigital.com" className="flex items-center gap-4 text-muted-foreground hover:text-primary">
+                    <a href="mailto:creativelinesdigital@gmail.com" className="flex items-center justify-center gap-4 text-muted-foreground hover:text-primary">
                         <Mail className="h-6 w-6" />
-                        <span>info@binatedigital.com</span>
-                    </a>
-                </div>
-                <div className="space-y-4">
-                    <h3 className="text-2xl font-semibold text-foreground">Call Us</h3>
-                    <a href="tel:856-243-6180" className="flex items-center gap-4 text-muted-foreground hover:text-primary">
-                        <Phone className="h-6 w-6" />
-                        <span>856-243-6180</span>
-                    </a>
-                    <a href="tel:713-405-3098" className="flex items-center gap-4 text-muted-foreground hover:text-primary">
-                        <Phone className="h-6 w-6" />
-                        <span>713-405-3098</span>
+                        <span>creativelinesdigital@gmail.com</span>
                     </a>
                 </div>
             </div>
@@ -46,3 +36,5 @@ export default function ContactUsPage() {
     </ServicePageLayout>
   );
 }
+
+    
