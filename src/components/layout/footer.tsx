@@ -8,7 +8,6 @@ import {
   Instagram,
   Youtube,
   Dribbble,
-  Phone,
   Mail,
 } from "lucide-react";
 import { footerData } from "@/lib/data";
@@ -72,7 +71,7 @@ const Footer = () => {
             </div>
 
             <div className="flex flex-col items-center gap-2">
-              <Logo />
+              <Logo className="!w-40 !h-auto" />
               <p className="text-sm text-muted-foreground">
                 Copyright ©{new Date().getFullYear()}. All Rights Reserved
               </p>
