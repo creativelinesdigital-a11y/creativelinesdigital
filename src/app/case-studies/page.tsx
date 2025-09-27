@@ -18,7 +18,7 @@ export default function CaseStudiesPage() {
     >
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
         {caseStudies.map((item) => (
-          <Link href="#" key={item.id}>
+          <Link href={item.href} key={item.id}>
             <div className="relative group cursor-pointer overflow-hidden rounded-lg shadow-lg">
               <div className="relative aspect-[4/3] w-full">
                 <Image

@@ -267,7 +267,7 @@
     {
       "id": "service-staff-augmentation",
       "description": "Team members joining a new company.",
-      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "team integration"
     },
     {
@@ -291,7 +291,7 @@
     {
       "id": "service-aso",
       "description": "App store on a mobile phone.",
-      "imageUrl": "https://images.unsplash.com/photo-1587573578335-9672da4d0292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHAlMjBzdG9yZXxlbnwwfHx8fDE3NTg5NzYyNjh8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1587573578335-9672da4d0292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHAlMjBzdG9yZXxlbnwwfHx8fDE3NTg5NzYyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "app store"
     },
     {
@@ -315,7 +315,7 @@
     {
       "id": "service-staff-augmentation-2",
       "description": "Business meeting discussing project plans.",
-      "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzU4OTE5NTM5fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzU4OTE5NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "business meeting"
     },
     {
@@ -477,7 +477,7 @@
     {
       "id": "service-android",
       "description": "Android logo on a smartphone screen.",
-      "imageUrl": "https://images.unsplash.com/photo-1673718424704-51d0d2ca1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmRyb2lkJTIwcGhvbmV8ZW58MHx8fHwxNzU4OTU1ODk2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1673718424704-51d0d2ca1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmRyb2lkJTIwcGhvbmV8ZW58MHx8fHwxNzU4OTU1ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "android phone"
     },
     {
@@ -921,7 +921,7 @@
     {
       "id": "industry-logistics-2",
       "description": "A worker using a handheld scanner to manage inventory.",
-      "imageUrl": "https://images.unsplash.com/photo-1627915589334-14a3c3e3a741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW52ZW50b3J5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTg5MDg3NDl8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1627915589334-14a9c3e3a741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW52ZW50b3J5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTg5MDg3NDl8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "inventory management"
     },
     {
@@ -1107,8 +1107,188 @@
     {
       "id": "page-case-studies",
       "description": "A person analyzing charts and graphs on a screen, representing a successful case study.",
-      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e28f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3Rvcnl8ZW58MHx8fHwxNzU5MDAwMzIxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e28f81?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzdWNjZXNzJTIwc3Rvcnl8ZW58MHx8fHwxNzU5MDAwMzIxfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "success story"
+    },
+    {
+      "id": "case-study-event-management",
+      "description": "A conference hall filled with people for an event.",
+      "imageUrl": "https://images.unsplash.com/photo-1617196288062-49bf97a38d9e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb25mZXJlbmNlJTIwZXZlbnR8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "conference event"
+    },
+    {
+      "id": "case-study-event-management-1",
+      "description": "An app showing a digital ticket for an event.",
+      "imageUrl": "https://images.unsplash.com/photo-1707061803305-58383ee49415?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwdGlja2V0fGVufDB8fHx8MTc1ODk5MDUzMnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital ticket"
+    },
+    {
+      "id": "case-study-event-management-2",
+      "description": "A live polling feature being used on a phone during a presentation.",
+      "imageUrl": "https://images.unsplash.com/photo-1604160886713-5d157f3cace0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bGl2ZSUyMHBvbGxpbmd8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "live polling"
+    },
+    {
+      "id": "case-study-event-management-3",
+      "description": "Networking feature showing profiles of attendees.",
+      "imageUrl": "https://images.unsplash.com/photo-1752118464988-2914fb27d0f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhdHRlbmRlZSUyMHByb2ZpbGVzfGVufDB8fHx8MTc1ODk5MDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "attendee profiles"
+    },
+    {
+      "id": "case-study-event-management-4",
+      "description": "Post-event analytics dashboard showing engagement metrics.",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxldmVudCUyMGFuYWx5dGljc3xlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event analytics"
+    },
+    {
+      "id": "case-study-finance-tracking",
+      "description": "A sleek dashboard of a finance app showing charts and graphs.",
+      "imageUrl": "https://images.unsplash.com/photo-1554098415-788601c80aef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxmaW5hbmNlJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc1ODk2NDg3M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "finance dashboard"
+    },
+    {
+      "id": "case-study-finance-tracking-1",
+      "description": "A user linking a bank account to the finance app.",
+      "imageUrl": "https://images.unsplash.com/photo-1569979230536-b3415317a681?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxiYW5rJTIwbGlua2luZ3xlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bank linking"
+    },
+    {
+      "id": "case-study-finance-tracking-2",
+      "description": "A detailed spending report categorized by expenses.",
+      "imageUrl": "https://images.unsplash.com/photo-1572700433454-3d77d2fb5c0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzcGVuZGluZyUyMHJlcG9ydHxlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spending report"
+    },
+    {
+      "id": "case-study-finance-tracking-3",
+      "description": "Setting a budget for groceries within the app.",
+      "imageUrl": "https://images.unsplash.com/photo-1656049471577-1c10b7359c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidWRnZXQlMjBzZXR0aW5nfGVufDB8fHx8MTc1ODk5MDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "budget setting"
+    },
+    {
+      "id": "case-study-finance-tracking-4",
+      "description": "An alert for an upcoming bill payment.",
+      "imageUrl": "https://images.unsplash.com/photo-1731318283384-4d8f79bd5090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiaWxsJTIwYWxlcnR8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bill alert"
+    },
+    {
+      "id": "case-study-music-discovery",
+      "description": "A vibrant music app interface with album art.",
+      "imageUrl": "https://images.unsplash.com/photo-1658953229625-aad99d7603b4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGludGVyZmFjZXxlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "music interface"
+    },
+    {
+      "id": "case-study-music-discovery-1",
+      "description": "An AI-powered playlist curated for a user.",
+      "imageUrl": "https://images.unsplash.com/photo-1652626627248-2f659cdbd6cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8QUklMjBwbGF5bGlzdHxlbnwwfHx8fDE3NTg5OTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "AI playlist"
+    },
+    {
+      "id": "case-study-music-discovery-2",
+      "description": "A social feature showing what friends are listening to.",
+      "imageUrl": "https://images.unsplash.com/photo-1758587421184-339f385900ef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzb2NpYWwlMjBtdXNpY3xlbnwwfHx8fDE3NTg5OTA1MzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social music"
+    },
+    {
+      "id": "case-study-music-discovery-3",
+      "description": "High-fidelity audio streaming quality settings.",
+      "imageUrl": "https://images.unsplash.com/photo-1562670905-91409f3b7727?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhdWRpbyUyMHF1YWxpdHl8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "audio quality"
+    },
+    {
+      "id": "case-study-music-discovery-4",
+      "description": "A user downloading a playlist for offline listening.",
+      "imageUrl": "https://images.unsplash.com/photo-1607028792412-970b18afa436?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8b2ZmbGluZSUyMGxpc3RlbmluZ3xlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "offline listening"
+    },
+    {
+      "id": "case-study-social-networking",
+      "description": "A feed of a social networking app on a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1706515524465-edc6fafd3657?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb2NpYWwlMjBmZWVkfGVufDB8fHx8MTc1ODk5MDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "social feed"
+    },
+    {
+      "id": "case-study-social-networking-1",
+      "description": "A user creating a profile with their photo and bio.",
+      "imageUrl": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx1c2VyJTIwcHJvZmlsZXxlbnwwfHx8fDE3NTg5Mzc0Nzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "user profile"
+    },
+    {
+      "id": "case-study-social-networking-2",
+      "description": "A real-time chat interface between two users.",
+      "imageUrl": "https://images.unsplash.com/photo-1694878981964-c9d8f1ffc19d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjaGF0JTIwaW50ZXJmYWNlfGVufDB8fHx8MTc1ODg4MDc3N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chat interface"
+    },
+    {
+      "id": "case-study-social-networking-3",
+      "description": "A group video call feature within the app.",
+      "imageUrl": "https://images.unsplash.com/photo-1616587226960-4a03badbe8bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aWRlbyUyMGNhbGx8ZW58MHx8fHwxNzU4OTg4NDYxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video call"
+    },
+    {
+      "id": "case-study-social-networking-4",
+      "description": "An event creation feature for community gatherings.",
+      "imageUrl": "https://images.unsplash.com/photo-1644667621462-4938986c3a41?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxldmVudCUyMGNyZWF0aW9ufGVufDB8fHx8MTc1ODk5MDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "event creation"
+    },
+    {
+      "id": "case-study-smart-home",
+      "description": "A tablet showing a control panel for a smart home.",
+      "imageUrl": "https://images.unsplash.com/photo-1558089687-f282ffcbc126?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzbWFydCUyMGhvbWV8ZW58MHx8fHwxNzU4OTQ5OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart home"
+    },
+    {
+      "id": "case-study-smart-home-1",
+      "description": "Controlling smart lights from the app.",
+      "imageUrl": "https://images.unsplash.com/photo-1543145499-8193615267de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydCUyMGxpZ2h0c3xlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart lights"
+    },
+    {
+      "id": "case-study-smart-home-2",
+      "description": "Adjusting a smart thermostat remotely.",
+      "imageUrl": "https://images.unsplash.com/photo-1655194827229-a1d3192b533e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzbWFydCUyMHRoZXJtb3N0YXR8ZW58MHx8fHwxNzU4OTczNDE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "smart thermostat"
+    },
+    {
+      "id": "case-study-smart-home-3",
+      "description": "Viewing a live feed from a security camera.",
+      "imageUrl": "https://images.unsplash.com/photo-1722488359737-7a9b8a8436c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzZWN1cml0eSUyMGNhbWVyYXxlbnwwfHx8fDE3NTg5NDczNzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "security camera"
+    },
+    {
+      "id": "case-study-smart-home-4",
+      "description": "An automation scene being created, like 'Movie Night'.",
+      "imageUrl": "https://images.unsplash.com/photo-1530546171585-cc042ea5d7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxob21lJTIwYXV0b21hdGlvbnxlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "home automation"
+    },
+    {
+      "id": "case-study-fitness-tracking",
+      "description": "A fitness app dashboard on a smartphone.",
+      "imageUrl": "https://images.unsplash.com/photo-1574340328797-4d35191976e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaXRuZXNzJTIwZGFzaGJvYXJkfGVufDB8fHx8MTc1ODk5MDUzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness dashboard"
+    },
+    {
+      "id": "case-study-fitness-tracking-1",
+      "description": "Tracking a run with GPS on a map.",
+      "imageUrl": "https://images.unsplash.com/photo-1620376148637-760cb55602d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8R1BTJTIwdHJhY2tpbmd8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "GPS tracking"
+    },
+    {
+      "id": "case-study-fitness-tracking-2",
+      "description": "A user logging their meal in a food diary.",
+      "imageUrl": "https://images.unsplash.com/photo-1692158961713-73690ef06e6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxmb29kJTIwZGlhcnl8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "food diary"
+    },
+    {
+      "id": "case-study-fitness-tracking-3",
+      "description": "Connecting a wearable heart rate monitor to the app.",
+      "imageUrl": "https://images.unsplash.com/photo-1695827163796-c26a087bd728?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWFyYWJsZSUyMHN5bmN8ZW58MHx8fHwxNzU4OTkwNTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wearable sync"
+    },
+    {
+      "id": "case-study-fitness-tracking-4",
+      "description": "A social feed where users share workout achievements.",
+      "imageUrl": "https://images.unsplash.com/photo-1591311630200-ffa9120a540f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3b3Jrb3V0JTIwc2hhcmluZ3xlbnwwfHx8fDE3NTg5OTA1MzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "workout sharing"
     }
   ]
 }

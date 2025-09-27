@@ -251,12 +251,12 @@ export const imageGallery = [
 ];
 
 export const caseStudies = [
-    { id: 1, title: "Event Management App", imageUrl: findImage('case-1').url, imageHint: 'event management' },
-    { id: 2, title: "Finance Tracking App", imageUrl: findImage('case-2').url, imageHint: 'finance app' },
-    { id: 3, title: "Music Discovery App", imageUrl: findImage('case-3').url, imageHint: 'music app' },
-    { id: 4, title: "Social Networking App", imageUrl: findImage('case-4').url, imageHint: 'social media' },
-    { id: 5, title: "Smart Home Control App", imageUrl: findImage('case-5').url, imageHint: 'smart home' },
-    { id: 6, title: "Fitness Tracking App", imageUrl: findImage('case-6').url, imageHint: 'fitness app' },
+    { id: 1, title: "Event Management App", href: "/case-studies/event-management-app", imageUrl: findImage('case-1').url, imageHint: 'event management' },
+    { id: 2, title: "Finance Tracking App", href: "/case-studies/finance-tracking-app", imageUrl: findImage('case-2').url, imageHint: 'finance app' },
+    { id: 3, title: "Music Discovery App", href: "/case-studies/music-discovery-app", imageUrl: findImage('case-3').url, imageHint: 'music app' },
+    { id: 4, title: "Social Networking App", href: "/case-studies/social-networking-app", imageUrl: findImage('case-4').url, imageHint: 'social media' },
+    { id: 5, title: "Smart Home Control App", href: "/case-studies/smart-home-control-app", imageUrl: findImage('case-5').url, imageHint: 'smart home' },
+    { id: 6, title: "Fitness Tracking App", href: "/case-studies/fitness-tracking-app", imageUrl: findImage('case-6').url, imageHint: 'fitness app' },
 ];
 
 export const footerData = {
@@ -336,10 +336,3 @@ export const footerData = {
         { label: "Terms & Condition", href: "#" },
     ]
 };
-
-    
-    
-    
-
-    
-
