@@ -244,19 +244,19 @@ export const blogPosts = [
 ];
 
 export const imageGallery = [
-    { id: "case-1", title: "Eventeca", imageUrl: findImage('case-1').url, imageHint: findImage('case-1').hint },
-    { id: "case-2", title: "BuckBuddy", imageUrl: findImage('case-2').url, imageHint: findImage('case-2').hint },
-    { id: "case-3", title: "Lyrikel Genius", imageUrl: findImage('case-3').url, imageHint: findImage('case-3').hint },
-    { id: "case-4", title: "Release It", imageUrl: findImage('case-4').url, imageHint: findImage('case-4').hint },
+    { id: "case-1", title: "Event Management App", imageUrl: findImage('case-1').url, imageHint: findImage('case-1').hint },
+    { id: "case-2", title: "Finance Tracking App", imageUrl: findImage('case-2').url, imageHint: findImage('case-2').hint },
+    { id: "case-3", title: "Music Discovery App", imageUrl: findImage('case-3').url, imageHint: findImage('case-3').hint },
+    { id: "case-4", title: "Social Networking App", imageUrl: findImage('case-4').url, imageHint: findImage('case-4').hint },
 ];
 
 export const caseStudies = [
-    { id: 1, title: "Eventeca", imageUrl: findImage('case-1').url, imageHint: 'event management' },
-    { id: 2, title: "BuckBuddy", imageUrl: findImage('case-2').url, imageHint: 'finance app' },
-    { id: 3, title: "Lyrikel Genius", imageUrl: findImage('case-3').url, imageHint: 'music app' },
-    { id: 4, title: "Release It", imageUrl: findImage('case-4').url, imageHint: 'social media' },
-    { id: 5, title: "H.O.M.E.", imageUrl: findImage('case-5').url, imageHint: 'smart home' },
-    { id: 6, title: "Goal Getter", imageUrl: findImage('case-6').url, imageHint: 'fitness app' },
+    { id: 1, title: "Event Management App", imageUrl: findImage('case-1').url, imageHint: 'event management' },
+    { id: 2, title: "Finance Tracking App", imageUrl: findImage('case-2').url, imageHint: 'finance app' },
+    { id: 3, title: "Music Discovery App", imageUrl: findImage('case-3').url, imageHint: 'music app' },
+    { id: 4, title: "Social Networking App", imageUrl: findImage('case-4').url, imageHint: 'social media' },
+    { id: 5, title: "Smart Home Control App", imageUrl: findImage('case-5').url, imageHint: 'smart home' },
+    { id: 6, title: "Fitness Tracking App", imageUrl: findImage('case-6').url, imageHint: 'fitness app' },
 ];
 
 export const footerData = {
@@ -319,7 +319,7 @@ export const footerData = {
     contact: {
         phone1: "856-243-6180",
         phone2: "713-405-3098",
-        email: "info@binatedigital.com",
+        email: "creativelinesdigital@gmail.com",
     },
     socials: [
         { name: "Facebook", href: "#" },
@@ -342,3 +342,4 @@ export const footerData = {
     
 
     
+

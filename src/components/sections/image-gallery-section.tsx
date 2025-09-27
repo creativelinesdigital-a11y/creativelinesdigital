@@ -11,7 +11,7 @@ import {
   DialogTrigger,
   DialogFooter,
 } from "@/components/ui/dialog";
-import { imageGallery, caseStudies } from "@/lib/data";
+import { caseStudies } from "@/lib/data";
 import {
   imageGalleryRefresher,
   type ImageGalleryRefresherOutput,
@@ -19,7 +19,7 @@ import {
 import { Skeleton } from "../ui/skeleton";
 import { Wand2 } from "lucide-react";
 
-type GalleryItem = typeof imageGallery[0];
+type GalleryItem = typeof caseStudies[0];
 
 const ImageGallerySection = () => {
   const [selectedImage, setSelectedImage] = useState<GalleryItem | null>(null);
