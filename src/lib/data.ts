@@ -1,4 +1,5 @@
 
+
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 
 const findImage = (id: string) => {
@@ -239,9 +240,9 @@ export const awards = [
 ];
 
 export const blogPosts = [
-    { id: 1, title: "Figma Workshop Session", excerpt: "Designing digital experiences that are easy to use is of utmost importance. A workshop conducted by Creative Lines Digital was exclusively dedicated to enhancing the understanding of Figma.", href: "#", imageUrl: findImage('blog-1').url, imageHint: findImage('blog-1').hint },
-    { id: 2, title: "20 Best Artificial Intelligence Apps For iPhone", excerpt: "When we peek into the future, all we see is technology shifting its shape. The power of mobile app modification is going to grow as time passes, and it will break infinite boundaries.", href: "#", imageUrl: findImage('blog-2').url, imageHint: findImage('blog-2').hint },
-    { id: 3, title: "Guide to Ecommerce App Development", excerpt: "The world has observed a vast change in e-commerce. Have you ever thought about what is driving such a change? The answer is e-commerce mobile apps.", href: "#", imageUrl: findImage('blog-3').url, imageHint: findImage('blog-3').hint },
+    { id: 1, title: "Figma Workshop Session", excerpt: "Designing digital experiences that are easy to use is of utmost importance. A workshop conducted by Creative Lines Digital was exclusively dedicated to enhancing the understanding of Figma.", href: "/resources/blog/figma-workshop", imageUrl: findImage('blog-1').url, imageHint: findImage('blog-1').hint },
+    { id: 2, title: "20 Best Artificial Intelligence Apps For iPhone", excerpt: "When we peek into the future, all we see is technology shifting its shape. The power of mobile app modification is going to grow as time passes, and it will break infinite boundaries.", href: "/resources/blog/ai-apps-for-iphone", imageUrl: findImage('blog-2').url, imageHint: findImage('blog-2').hint },
+    { id: 3, title: "Guide to Ecommerce App Development", excerpt: "The world has observed a vast change in e-commerce. Have you ever thought about what is driving such a change? The answer is e-commerce mobile apps.", href: "/resources/blog/ecommerce-app-development-guide", imageUrl: findImage('blog-3').url, imageHint: findImage('blog-3').hint },
 ];
 
 export const imageGallery = [
