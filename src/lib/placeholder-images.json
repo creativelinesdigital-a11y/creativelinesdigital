@@ -39,7 +39,7 @@
     {
       "id": "testimonial-2",
       "description": "Portrait of a confident businessman.",
-      "imageUrl": "https://images.unsplash.com/photo-1543132220-c6440149c632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzc21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1ODk4NTk1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1543132220-c6440149c632?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxidXNpbmVzc21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc1ODk4NTk1NHww&ixlibrb-4.1.0&q=80&w=1080",
       "imageHint": "businessman portrait"
     },
     {
@@ -81,698 +81,770 @@
     {
       "id": "award-5",
       "description": "SEOblog top agency logo.",
-      "imageUrl": "https://images.unsplash.com/photo-1632679090212-612ac1f4d76f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxTRU8lMjBhd2FyZHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1632679090212-612ac1f4d76f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxTRU8lMjBhd2FyZHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "SEO award"
     },
     {
       "id": "award-6",
       "description": "Top e-commerce developer award logo.",
-      "imageUrl": "https://images.unsplash.com/photo-1613826488249-b67eba609bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWNvbW1lcmNlJTIwYmFkZ2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1613826488249-b67eba609bed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZWNvbW1lcmNlJTIwYmFkZ2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "ecommerce badge"
     },
     {
       "id": "blog-1",
       "description": "People collaborating around a digital whiteboard with Figma designs.",
-      "imageUrl": "https://images.unsplash.com/photo-1503551723145-6c040742065b-v2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZXNpZ24lMjB3b3Jrc2hvcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1503551723145-6c040742065b-v2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZXNpZ24lMjB3b3Jrc2hvcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "design workshop"
     },
     {
       "id": "blog-2",
       "description": "An abstract representation of artificial intelligence on a smartphone.",
-      "imageUrl": "https://images.unsplash.com/photo-1758626038030-96f813504d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSSUyMGNvbmNlcHR8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758626038030-96f813504d15?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxBSSUyMGNvbmNlcHR8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "AI concept"
     },
     {
       "id": "blog-3",
       "description": "A shopping cart icon on a screen, representing e-commerce development.",
-      "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlY29tbWVyY2UlMjBjb25jZXB0fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxlY29tbWVyY2UlMjBjb25jZXB0fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "ecommerce concept"
     },
     {
       "id": "case-1",
       "description": "A vibrant scene from an event management application.",
-      "imageUrl": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXZlbnQlMjBtYW5hZ2VtZW50fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZXZlbnQlMjBtYW5hZ2VtZW50fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "event management"
     },
     {
       "id": "case-2",
       "description": "A clean interface of a personal finance app.",
-      "imageUrl": "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaW5hbmNlJTIwYXBwfGVufDB8fHx8MTc1ODk4NDY5NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-593bc073d938?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmaW5hbmNlJTIwYXBwfGVufDB8fHx8MTc1ODk4NDY5NHww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "finance app"
     },
     {
       "id": "case-3",
       "description": "An artistic representation of a music or poetry app.",
-      "imageUrl": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGFwcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1614680376573-df3480f0c6ff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNpYyUyMGFwcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "music app"
     },
     {
       "id": "case-4",
       "description": "A social media feed shown on a mobile device.",
-      "imageUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTg4NjMxMjR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzb2NpYWwlMjBtZWRpYXxlbnwwfHx8fDE3NTg4NjMxMjR8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "social media"
     },
     {
       "id": "case-5",
       "description": "A smart home control panel on a tablet.",
-      "imageUrl": "https://images.unsplash.com/photo-1514803400321-3ca29fc47334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydCUyMGhvbWV8ZW58MHx8fHwxNzU4OTQ5OTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1514803400321-3ca29fc47334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzbWFydCUyMGhvbWV8ZW58MHx8fHwxNzU4OTQ5OTkzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "smart home"
     },
     {
       "id": "case-6",
       "description": "A fitness tracking app showing activity and goals.",
-      "imageUrl": "https://images.unsplash.com/photo-1532435109783-fdb8a2be0baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmaXRuZXNzJTIwYXBwfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1532435109783-fdb8a2be0baa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmaXRuZXNzJTIwYXBwfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "fitness app"
     },
     {
       "id": "tech-1",
       "name": "AWS",
-      "imageUrl": "https://images.unsplash.com/photo-1750816204148-5d02aff367cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxBV1MlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1750816204148-5d02aff367cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxBV1MlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "AWS logo"
     },
     {
       "id": "tech-2",
       "name": "Bootstrap",
-      "imageUrl": "https://images.unsplash.com/photo-1701500096456-28186c4a306d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxCb290c3RyYXAlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1701500096456-28186c4a306d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxCb290c3RyYXAlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Bootstrap logo"
     },
     {
       "id": "tech-3",
       "name": "C#",
-      "imageUrl": "https://images.unsplash.com/photo-1586412663474-24effc8aaa75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxDc2hhcnAlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1586412663474-24effc8aaa75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxDc2hhcnAlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Csharp logo"
     },
     {
       "id": "tech-4",
       "name": "CSS3",
-      "imageUrl": "https://images.unsplash.com/photo-1559757650-da0f3d40dd5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxDU1MzJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1559757650-da0f3d40dd5a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxDU1MzJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "CSS3 logo"
     },
     {
       "id": "tech-5",
       "name": "Django",
-      "imageUrl": "https://images.unsplash.com/photo-1660071155921-7204712d7d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxEamFuZ28lMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1660071155921-7204712d7d1a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxEamFuZ28lMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Django logo"
     },
     {
       "id": "tech-6",
       "name": "Docker",
-      "imageUrl": "https://images.unsplash.com/photo-1653499676737-becf2c9562c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxEb2NrZXIlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1653499676737-becf2c9562c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxEb2NrZXIlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Docker logo"
     },
     {
       "id": "tech-7",
       "name": "Flask",
-      "imageUrl": "https://images.unsplash.com/photo-1701500096456-28186c4a306d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxGbGFzayUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1701500096456-28186c4a306d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxGbGFzayUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Flask logo"
     },
     {
       "id": "tech-8",
       "name": "Google Cloud",
-      "imageUrl": "https://images.unsplash.com/photo-1545601445-9242104e5d79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxHQ1AlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1545601445-9242104e5d79?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxHQ1AlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "GCP logo"
     },
     {
       "id": "tech-9",
       "name": "GraphQL",
-      "imageUrl": "https://images.unsplash.com/photo-1669217541686-b492ea32c548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8R3JhcGhRTCUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1669217541686-b492ea32c548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8R3JhcGhRTCUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "GraphQL logo"
     },
     {
       "id": "tech-10",
       "name": "JavaScript",
-      "imageUrl": "https://images.unsplash.com/photo-1728406970302-8be1af6bda4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxKYXZhU2NyaXB0JTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1728406970302-8be1af6bda4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxKYXZhU2NyaXB0JTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "JavaScript logo"
     },
     {
       "id": "tech-11",
       "name": "Kafka",
-      "imageUrl": "https://images.unsplash.com/photo-1556806148-dcf46692945c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxLYWZrYSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1556806148-dcf46692945c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxLYWZrYSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Kafka logo"
     },
     {
       "id": "tech-12",
       "name": "Kubernetes",
-      "imageUrl": "https://images.unsplash.com/photo-1728406970302-8be1af6bda4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxLdWJlcm5ldGVzJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1728406970302-8be1af6bda4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxLdWJlcm5ldGVzJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Kubernetes logo"
     },
     {
       "id": "tech-13",
       "name": "MongoDB",
-      "imageUrl": "https://images.unsplash.com/photo-1653499676737-becf2c9562c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxNb25nb0RCJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1653499676737-becf2c9562c8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxNb25nb0RCJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "MongoDB logo"
     },
     {
       "id": "tech-14",
       "name": "MS Azure",
-      "imageUrl": "https://images.unsplash.com/photo-1706811780465-db259793be75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxBenVyZSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1706811780465-db259793be75?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxBenVyZSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Azure logo"
     },
     {
       "id": "tech-15",
       "name": "Java",
-      "imageUrl": "https://images.unsplash.com/photo-1637489981573-e45e9297cb21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxKYXZhJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1637489981573-e45e9297cb21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxKYXZhJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Java logo"
     },
     {
       "id": "tech-16",
       "name": ".NET",
-      "imageUrl": "https://images.unsplash.com/photo-1750049790142-2db418e5745c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxEb3ROZXQlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1750049790142-2db418e5745c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxEb3ROZXQlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "DotNet logo"
     },
     {
       "id": "tech-17",
       "name": "Node.js",
-      "imageUrl": "https://images.unsplash.com/photo-1628760584600-6c31148991e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxOb2RlSlMlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1628760584600-6c31148991e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxOb2RlSlMlMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "NodeJS logo"
     },
     {
       "id": "tech-18",
       "name": "Python",
-      "imageUrl": "https://images.unsplash.com/photo-1758782362142-a84a8a1435bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxQeXRob24lMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758782362142-a84a8a1435bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxQeXRob24lMjBsb2dvfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Python logo"
     },
     {
       "id": "tech-19",
       "name": "React",
-      "imageUrl": "https://images.unsplash.com/photo-1645400975800-d3c387cb7fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxSZWFjdCUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1645400975800-d3c387cb7fbb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxSZWFjdCUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "React logo"
     },
     {
       "id": "tech-20",
       "name": "Unity 3D",
-      "imageUrl": "https://images.unsplash.com/photo-1647451971617-c52a1dba027a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxVbml0eSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647451971617-c52a1dba027a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxVbml0eSUyMGxvZ298ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "Unity logo"
     },
     {
       "id": "service-staff-augmentation",
       "description": "Team members joining a new company.",
-      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "team integration"
     },
     {
       "id": "service-dedicated-team",
       "description": "A dedicated team working together.",
-      "imageUrl": "https://images.unsplash.com/photo-1758609938669-48993dbc5fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkZWRpY2F0ZWQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758609938669-48993dbc5fed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkZWRpY2F0ZWQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "dedicated team"
     },
     {
       "id": "service-it-staffing",
       "description": "Human resources and recruitment concept.",
-      "imageUrl": "https://images.unsplash.com/photo-1528953030358-b0c7de371f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxJVCUyMHJlY3J1aXRtZW50fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1528953030358-b0c7de371f1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxJVCUyMHJlY3J1aXRtZW50fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "IT recruitment"
     },
     {
       "id": "service-ott-development",
       "description": "Streaming service on a TV.",
-      "imageUrl": "https://images.unsplash.com/photo-1714623319608-eb653ba9df0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlYW1pbmclMjBzZXJ2aWNlfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1714623319608-eb653ba9df0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzdHJlYW1pbmclMjBzZXJ2aWNlfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "streaming service"
     },
     {
       "id": "service-aso",
       "description": "App store on a mobile phone.",
-      "imageUrl": "https://images.unsplash.com/photo-1587573578335-9672da4d0292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHAlMjBzdG9yZXxlbnwwfHx8fDE3NTg5NzYyNjh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1587573578335-9672da4d0292?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhcHAlMjBzdG9yZXxlbnwwfHx8fDE3NTg5NzYyNjh8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "app store"
     },
     {
       "id": "service-digital-marketing",
       "description": "Digital marketing strategy chart.",
-      "imageUrl": "https://images.unsplash.com/photo-1613843433065-819a04a47a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmclMjBjaGFydHxlbnwwfHx8fDE3NTg5MDQzOTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1613843433065-819a04a47a09?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXJrZXRpbmclMjBjaGFydHxlbnwwfHx8fDE3NTg5MDQzOTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "marketing chart"
     },
     {
       "id": "service-software-testing",
       "description": "Software testing on a computer screen.",
-      "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMHRlc3Rpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1592609931095-54a2168ae893?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzb2Z0d2FyZSUyMHRlc3Rpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "software testing"
     },
     {
       "id": "service-staff-augmentation-1",
       "description": "Programmer working on a computer.",
-      "imageUrl": "https://images.unsplash.com/photo-1719253479632-61b2fdc77a65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZXZlbG9wZXIlMjBjb2Rpbmd8ZW58MHx8fHwxNzU4OTU0MjYzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1719253479632-61b2fdc77a65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxkZXZlbG9wZXIlMjBjb2Rpbmd8ZW58MHx8fHwxNzU4OTU0MjYzfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "developer coding"
     },
     {
       "id": "service-staff-augmentation-2",
       "description": "Business meeting discussing project plans.",
-      "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzU4OTE5NTM5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1686771416282-3888ddaf249b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxidXNpbmVzcyUyMG1lZXRpbmd8ZW58MHx8fHwxNzU4OTE5NTM5fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "business meeting"
     },
     {
       "id": "service-staff-augmentation-3",
       "description": "Piggy bank with coins, representing cost savings.",
-      "imageUrl": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3N0JTIwc2F2aW5nc3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1579621970795-87facc2f976d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3N0JTIwc2F2aW5nc3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cost savings"
     },
     {
       "id": "service-staff-augmentation-4",
       "description": "Team members high-fiving in an office.",
-      "imageUrl": "https://images.unsplash.com/photo-1499540633125-484965b60031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWFtJTIwc3VjY2Vzc3xlbnwwfHx8fDE3NTg5NTA0Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1499540633125-484965b60031?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZWFtJTIwc3VjY2Vzc3xlbnwwfHx8fDE3NTg5NTA0Njh8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "team success"
     },
     {
       "id": "service-dedicated-team-1",
       "description": "Focused team working on a complex project.",
-      "imageUrl": "https://images.unsplash.com/photo-1730342754568-4d91abe73a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb2N1c2VkJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1730342754568-4d91abe73a70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmb2N1c2VkJTIwdGVhbXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "focused team"
     },
     {
       "id": "service-dedicated-team-2",
       "description": "A diverse group of skilled professionals.",
-      "imageUrl": "https://images.unsplash.com/photo-1650784854945-264d5b0b6b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxleHBlcnQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1650784854945-264d5b0b6b07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxleHBlcnQlMjB0ZWFtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "expert team"
     },
     {
       "id": "service-dedicated-team-3",
       "description": "A transparent glass board with project plans.",
-      "imageUrl": "https://images.unsplash.com/photo-1527511280194-60cebc8f68b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmFuc3BhcmVudCUyMHByb2Nlc3N8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1527511280194-60cebc8f68b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0cmFuc3BhcmVudCUyMHByb2Nlc3N8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "transparent process"
     },
     {
       "id": "service-dedicated-team-4",
       "description": "Graphs showing upward growth and scalability.",
-      "imageUrl": "https://images.unsplash.com/photo-1587400563263-e77a5590bfe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2FsYWJpbGl0eSUyMGNoYXJ0fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1587400563263-e77a5590bfe7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzY2FsYWJpbGl0eSUyMGNoYXJ0fGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "scalability chart"
     },
     {
       "id": "service-it-staffing-1",
       "description": "A network of connected professionals.",
-      "imageUrl": "https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YWxlbnQlMjBuZXR3b3JrfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1664526937033-fe2c11f1be25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YWxlbnQlMjBuZXR3b3JrfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "talent network"
     },
     {
       "id": "service-it-staffing-2",
       "description": "A magnifying glass over a resume, indicating vetting.",
-      "imageUrl": "https://images.unsplash.com/photo-1595126848168-a6042c61a6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjB2ZXR0aW5nfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1595126848168-a6042c61a6b2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5kaWRhdGUlMjB2ZXR0aW5nfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "candidate vetting"
     },
     {
       "id": "service-it-staffing-3",
       "description": "Different puzzle pieces fitting together.",
-      "imageUrl": "https://images.unsplash.com/photo-1642903637174-cf973369bd4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmbGV4aWJsZSUyMG9wdGlvbnN8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1642903637174-cf973369bd4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmbGV4aWJsZSUyMG9wdGlvbnN8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "flexible options"
     },
     {
       "id": "service-it-staffing-4",
       "description": "A clock with a fast-forward symbol.",
-      "imageUrl": "https://images.unsplash.com/photo-1657411531607-e27275359fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYXN0JTIwaGlyaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1657411531607-e27275359fc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmYXN0JTIwaGlyaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "fast hiring"
     },
     {
       "id": "service-ott-development-1",
       "description": "Multiple screens showing the same video content.",
-      "imageUrl": "https://images.unsplash.com/photo-1640742283630-2266ca922e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcm9zcyUyMHBsYXRmb3JtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1640742283630-2266ca922e3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjcm9zcyUyMHBsYXRmb3JtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cross platform"
     },
     {
       "id": "service-ott-development-2",
       "description": "A padlock icon over a video stream.",
-      "imageUrl": "https://images.unsplash.com/photo-1696013910376-c56f76dd8178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZWN1cmUlMjBzdHJlYW1pbmd8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1696013910376-c56f76dd8178?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZWN1cmUlMjBzdHJlYW1pbmd8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "secure streaming"
     },
     {
       "id": "service-ott-development-3",
       "description": "Different currency symbols, representing monetization.",
-      "imageUrl": "https://images.unsplash.com/photo-1619888346689-df666fc33333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb25ldGl6YXRpb24lMjBtb2RlbHN8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1619888346689-df666fc33333?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtb25ldGl6YXRpb24lMjBtb2RlbHN8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "monetization models"
     },
     {
       "id": "service-ott-development-4",
       "description": "A server room with cloud symbols.",
-      "imageUrl": "https://images.unsplash.com/photo-1629058546243-4269cf2a29cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjbG91ZCUyMGluZnJhc3RydWN0dXJlfGVufDB8fHx8MTc1ODk0NTg2MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1629058546243-4269cf2a29cd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjbG91ZCUyMGluZnJhc3RydWN0dXJlfGVufDB8fHx8MTc1ODk0NTg2MHww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cloud infrastructure"
     },
     {
       "id": "service-aso-1",
       "description": "A search bar with app keywords.",
-      "imageUrl": "https://images.unsplash.com/photo-1684835609103-57dc56e07433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrZXl3b3JkJTIwc2VhcmNofGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1684835609103-57dc56e07433?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrZXl3b3JkJTIwc2VhcmNofGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "keyword search"
     },
     {
       "id": "service-aso-2",
       "description": "An app store listing with an attractive layout.",
-      "imageUrl": "https://images.unsplash.com/photo-1739459365478-d06951d053e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcHAlMjBsaXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1739459365478-d06951d053e8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhcHAlMjBsaXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "app listing"
     },
     {
       "id": "service-aso-3",
       "description": "Five stars with positive user reviews.",
-      "imageUrl": "https://images.unsplash.com/photo-1738152878182-869a3fc9e220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1c2VyJTIwcmV2aWV3c3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1738152878182-869a3fc9e220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1c2VyJTIwcmV2aWV3c3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "user reviews"
     },
     {
       "id": "service-aso-4",
       "description": "A dashboard with app performance analytics.",
-      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzU4OTE2ODEyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbmFseXRpY3MlMjBkYXNoYm9hcmR8ZW58MHx8fHwxNzU4OTE2ODEyfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "analytics dashboard"
     },
     {
       "id": "service-digital-marketing-1",
       "description": "A website climbing up search engine rankings.",
-      "imageUrl": "https://images.unsplash.com/photo-1757932520543-1806e2911cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxTRU8lMjByYW5raW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1757932520543-1806e2911cd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxTRU8lMjByYW5raW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "SEO ranking"
     },
     {
       "id": "service-digital-marketing-2",
       "description": "A graph showing return on investment from PPC.",
-      "imageUrl": "https://images.unsplash.com/photo-1746929364137-2ac180074f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxQUEMlMjBhZHZlcnRpc2luZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1746929364137-2ac180074f0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxQUEMlMjBhZHZlcnRpc2luZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "PPC advertising"
     },
     {
       "id": "service-digital-marketing-3",
       "description": "A person writing engaging content on a laptop.",
-      "imageUrl": "https://images.unsplash.com/photo-1726066012749-f81bf4422d4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb250ZW50JTIwY3JlYXRpb258ZW58MHx8fHwxNzU4OTE4MDcxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1726066012749-f81bf4422d4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb250ZW50JTIwY3JlYXRpb258ZW58MHx8fHwxNzU4OTE4MDcxfDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "content creation"
     },
     {
       "id": "service-digital-marketing-4",
       "description": "Social media icons connected in a network.",
-      "imageUrl": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29jaWFsJTIwbWVkaWF8ZW58MHx8fHwxNzU4ODYzMTI0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1563986768494-4dee2763ff3f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29jaWFsJTIwbWVkaWF8ZW58MHx8fHwxNzU4ODYzMTI0fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "social media"
     },
     {
       "id": "service-software-testing-1",
       "description": "A person doing both manual and automated testing.",
-      "imageUrl": "https://images.unsplash.com/photo-1672209962122-4e38cd353163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhdXRvbWF0ZWQlMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1672209962122-4e38cd353163?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhdXRvbWF0ZWQlMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "automated testing"
     },
     {
       "id": "service-software-testing-2",
       "description": "A server under a stress test with high traffic.",
-      "imageUrl": "https://images.unsplash.com/photo-1605530096090-a4d31cd82288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb2FkJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605530096090-a4d31cd82288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxsb2FkJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "load testing"
     },
     {
       "id": "service-software-testing-3",
       "description": "A shield protecting a computer from cyber threats.",
-      "imageUrl": "https://images.unsplash.com/photo-1616877404877-b62fa0846edd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzZWN1cml0eSUyMHRlc3Rpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1616877404877-b62fa0846edd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzZWN1cml0eSUyMHRlc3Rpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "security testing"
     },
     {
       "id": "service-software-testing-4",
       "description": "An application running on multiple devices.",
-      "imageUrl": "https://images.unsplash.com/photo-1596300919209-8aca632f3730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYXRpYmlsaXR5JTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1596300919209-8aca632f3730?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21wYXRpYmlsaXR5JTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "compatibility testing"
     },
     {
       "id": "service-android",
       "description": "Android logo on a smartphone screen.",
-      "imageUrl": "https://images.unsplash.com/photo-1673718424704-51d0d2ca1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmRyb2lkJTIwcGhvbmV8ZW58MHx8fHwxNzU4OTU1ODk2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1673718424704-51d0d2ca1fd2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxhbmRyb2lkJTIwcGhvbmV8ZW58MHx8fHwxNzU4OTU1ODk2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "android phone"
     },
     {
       "id": "service-android-1",
       "description": "Native Android app interface.",
-      "imageUrl": "https://images.unsplash.com/photo-1640756883978-e9b6ddc8f91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuYXRpdmUlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1640756883978-e9b6ddc8f91f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuYXRpdmUlMjBpbnRlcmZhY2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "native interface"
     },
     {
       "id": "service-android-2",
       "description": "A scalable architecture diagram for Android.",
-      "imageUrl": "https://images.unsplash.com/photo-1644930167174-a04d9f7532b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2FsYWJsZSUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1644930167174-a04d9f7532b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzY2FsYWJsZSUyMGFyY2hpdGVjdHVyZXxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "scalable architecture"
     },
     {
       "id": "service-android-3",
       "description": "Android device fragmentation concept.",
-      "imageUrl": "https://images.unsplash.com/photo-1750055401941-eaa6949496f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXZpY2UlMjBjb21wYXRpYmlsaXR5fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1750055401941-eaa6949496f1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkZXZpY2UlMjBjb21wYXRpYmlsaXR5fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "device compatibility"
     },
     {
       "id": "service-android-4",
       "description": "User enjoying a seamless app experience.",
-      "imageUrl": "https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dXNlciUyMGV4cGVyaWVuY2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1576595580361-90a855b84b20?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8dXNlciUyMGV4cGVyaWVuY2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "user experience"
     },
     {
       "id": "service-kotlin",
       "description": "Kotlin logo with code in the background.",
-      "imageUrl": "https://images.unsplash.com/photo-1664255431351-273fd79b2c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxrb3RsaW4lMjBjb2RlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1664255431351-273fd79b2c1d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxrb3RsaW4lMjBjb2RlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "kotlin code"
     },
     {
       "id": "service-kotlin-1",
       "description": "Clean and modern Kotlin code on a screen.",
-      "imageUrl": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGVhbiUyMGNvZGV8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjbGVhbiUyMGNvZGV8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "clean code"
     },
     {
       "id": "service-kotlin-2",
       "description": "Kotlin's interoperability with Java.",
-      "imageUrl": "https://images.unsplash.com/photo-1617704317772-2a75eb51f98b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqYXZhJTIwaW50ZXJvcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1617704317772-2a75eb51f98b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqYXZhJTIwaW50ZXJvcHxlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "java interop"
     },
     {
       "id": "service-kotlin-3",
       "description": "A developer fixing a bug quickly.",
-      "imageUrl": "https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsZXNzJTIwY29kZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1565687981296-535f09db714e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxsZXNzJTIwY29kZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "less code"
     },
     {
       "id": "service-kotlin-4",
       "description": "A secure app with Kotlin shield.",
-      "imageUrl": "https://images.unsplash.com/photo-1717632464013-3b0adee4851b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbmhhbmNlZCUyMHNlY3VyaXR5fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1717632464013-3b0adee4851b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxlbmhhbmNlZCUyMHNlY3VyaXR5fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "enhanced security"
     },
     {
       "id": "service-ar-vr",
       "description": "Person using a VR headset for an immersive experience.",
-      "imageUrl": "https://images.unsplash.com/photo-1758612899213-c539a2958b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxWUiUyMGV4cGVyaWVuY2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758612899213-c539a2958b24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxWUiUyMGV4cGVyaWVuY2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "VR experience"
     },
     {
       "id": "service-ar-vr-1",
       "description": "Augmented reality app on a smartphone.",
-      "imageUrl": "https://images.unsplash.com/photo-1533310266094-8898a03807dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhdWdtZW50ZWQlMjByZWFsaXR5fGVufDB8fHx8MTc1ODkwMzc1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1533310266094-8898a03807dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhdWdtZW50ZWQlMjByZWFsaXR5fGVufDB8fHx8MTc1ODkwMzc1N3ww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "augmented reality"
     },
     {
       "id": "service-ar-vr-2",
       "description": "A 3D model being manipulated in AR.",
-      "imageUrl": "https://images.unsplash.com/photo-1642908589071-f9e1d08056e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHwzRCUyMG1vZGVsaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1642908589071-f9e1d08056e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHwzRCUyMG1vZGVsaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "3D modeling"
     },
     {
       "id": "service-ar-vr-3",
       "description": "A virtual reality environment for training.",
-      "imageUrl": "https://images.unsplash.com/photo-1758521960456-c876c573e0b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxWUiUyMHRyYWluaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758521960456-c876c573e0b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxWUiUyMHRyYWluaW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "VR training"
     },
     {
       "id": "service-ar-vr-4",
       "description": "A group of people interacting in a shared virtual space.",
-      "imageUrl": "https://images.unsplash.com/photo-1659453245227-053aec1bff9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29jaWFsJTIwVlJ8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1659453245227-053aec1bff9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8c29jaWFsJTIwVlJ8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "social VR"
     },
     {
       "id": "service-unreal",
       "description": "A stunning cinematic scene created in Unreal Engine.",
-      "imageUrl": "https://images.unsplash.com/photo-1691405158424-480b6ded158c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx1bnJlYWwlMjBlbmdpbmV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1691405158424-480b6ded158c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx1bnJlYWwlMjBlbmdpbmV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "unreal engine"
     },
     {
       "id": "service-unreal-1",
       "description": "Photorealistic graphics in a game.",
-      "imageUrl": "https://images.unsplash.com/photo-1748629761634-34ff7dc932d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwaG90b3JlYWxpc3RpYyUyMGdyYXBoaWNzfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1748629761634-34ff7dc932d3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwaG90b3JlYWxpc3RpYyUyMGdyYXBoaWNzfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "photorealistic graphics"
     },
     {
       "id": "service-unreal-2",
       "description": "Complex physics simulation in Unreal Engine.",
-      "imageUrl": "https://images.unsplash.com/photo-1685901458068-7b75c0442363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwaHlzaWNzJTIwc2ltdWxhdGlvbnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1685901458068-7b75c0442363?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwaHlzaWNzJTIwc2ltdWxhdGlvbnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "physics simulation"
     },
     {
       "id": "service-unreal-3",
       "description": "A game running on multiple platforms.",
-      "imageUrl": "https://images.unsplash.com/photo-1709540244087-ae4c96f270aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtdWx0aXBsYXRmb3JtJTIwZ2FtZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1709540244087-ae4c96f270aa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtdWx0aXBsYXRmb3JtJTIwZ2FtZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "multiplatform game"
     },
     {
       "id": "service-unreal-4",
       "description": "A large, open-world game environment.",
-      "imageUrl": "https://images.unsplash.com/photo-1555146076-0a81c716e171?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvcGVuJTIwd29ybGR8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1555146076-0a81c716e171?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvcGVuJTIwd29ybGR8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "open world"
     },
     {
       "id": "service-unity",
       "description": "A developer working in the Unity editor.",
-      "imageUrl": "https://images.unsplash.com/photo-1719558462099-c3463d684fc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx1bml0eSUyMGVkaXRvcnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1719558462099-c3463d684fc4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx1bml0eSUyMGVkaXRvcnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "unity editor"
     },
     {
       "id": "service-unity-1",
       "description": "A game deployed on mobile, console, and PC.",
-      "imageUrl": "https://images.unsplash.com/photo-1746892894466-5592c020d840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjcm9zcyUyMHBsYXRmb3JtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1746892894466-5592c020d840?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjcm9zcyUyMHBsYXRmb3JtfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cross platform"
     },
     {
       "id": "service-unity-2",
       "description": "The Unity Asset Store with various assets.",
-      "imageUrl": "https://images.unsplash.com/photo-1682745231148-74a05125555b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhc3NldCUyMHN0b3JlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1682745231148-74a05125555b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxhc3NldCUyMHN0b3JlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "asset store"
     },
     {
       "id": "service-unity-3",
       "description": "A 2D platformer game made in Unity.",
-      "imageUrl": "https://images.unsplash.com/photo-1709540236722-f481bfeb91a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHwyRCUyMGdhbWV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1709540236722-f481bfeb91a5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHwyRCUyMGdhbWV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "2D game"
     },
     {
       "id": "service-unity-4",
       "description": "A complex 3D game with detailed graphics.",
-      "imageUrl": "https://images.unsplash.com/photo-1693365591966-74865abe27f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHwzRCUyMGdhbWV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1693365591966-74865abe27f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHwzRCUyMGdhbWV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "3D game"
     },
     {
       "id": "service-ios-game",
       "description": "An exciting game running on an iPhone.",
-      "imageUrl": "https://images.unsplash.com/photo-1544976556-90b74491fe33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpT1MlMjBnYW1lfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1544976556-90b74491fe33?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpT1MlMjBnYW1lfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "iOS game"
     },
     {
       "id": "service-ios-game-1",
       "description": "A game optimized for performance on iOS devices.",
-      "imageUrl": "https://images.unsplash.com/photo-1657032633395-1cb34612f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpT1MlMjBwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1657032633395-1cb34612f86d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpT1MlMjBwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "iOS performance"
     },
     {
       "id": "service-ios-game-2",
       "description": "Game Center integration for achievements and leaderboards.",
-      "imageUrl": "https://images.unsplash.com/photo-1756363212224-dca8af2eac90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FtZSUyMGNlbnRlcnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1756363212224-dca8af2eac90?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z2FtZSUyMGNlbnRlcnxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "game center"
     },
     {
       "id": "service-ios-game-3",
       "description": "In-app purchases in an iOS game.",
-      "imageUrl": "https://images.unsplash.com/photo-1757301714935-c8127a21abc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW4tYXBwJTIwcHVyY2hhc2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1757301714935-c8127a2xabc6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW4tYXBwJTIwcHVyY2hhc2V8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "in-app purchase"
     },
     {
       "id": "service-ios-game-4",
       "description": "A game being played on both an iPhone and an iPad.",
-      "imageUrl": "https://images.unsplash.com/photo-1605600659802-1353d7fd3732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx1bml2ZXJzYWwlMjBhcHB8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1605600659802-1353d7fd3732?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHx1bml2ZXJzYWwlMjBhcHB8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "universal app"
     },
     {
       "id": "service-cross-platform",
       "description": "An app running seamlessly on different devices.",
-      "imageUrl": "https://images.unsplash.com/photo-1684409270762-51ea1841e646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcm9zcy1wbGF0Zm9ybSUyMGFwcHxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1684409270762-51ea1841e646?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjcm9zcy1wbGF0Zm9ybSUyMGFwcHxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cross-platform app"
     },
     {
       "id": "service-cross-platform-1",
       "description": "A single codebase for multiple platforms.",
-      "imageUrl": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaW5nbGUlMjBjb2RlYmFzZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxzaW5nbGUlMjBjb2RlYmFzZXxlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "single codebase"
     },
     {
       "id": "service-cross-platform-2",
       "description": "A graph showing reduced development time and cost.",
-      "imageUrl": "https://images.unsplash.com/photo-1707157281599-d155d1da5b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3N0JTIwZWZmZWN0aXZlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1707157281599-d155d1da5b4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb3N0JTIwZWZmZWN0aXZlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "cost effective"
     },
     {
       "id": "service-cross-platform-3",
       "description": "A wider audience reach across different app stores.",
-      "imageUrl": "https://images.unsplash.com/photo-1596522354195-e84ae3c98731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aWRlciUyMGF1ZGllbmNlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1596522354195-e84ae3c98731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx3aWRlciUyMGF1ZGllbmNlfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "wider audience"
     },
     {
       "id": "service-cross-platform-4",
       "description": "A developer easily maintaining an app.",
-      "imageUrl": "https://images.unsplash.com/photo-1540104539488-92a51bbc0410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlYXN5JTIwbWFpbnRlbmFuY2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1540104539488-92a51bbc0410?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxlYXN5JTIwbWFpbnRlbmFuY2V8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "easy maintenance"
     },
     {
       "id": "service-support-maintenance",
       "description": "A team providing ongoing technical support.",
-      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNobmljYWwlMjBzdXBwb3J0fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWNobmljYWwlMjBzdXBwb3J0fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "technical support"
     },
     {
       "id": "service-support-maintenance-1",
       "description": "A calendar showing a 24/7 support schedule.",
-      "imageUrl": "https://images.unsplash.com/photo-1715066289859-d12a3b4eb28d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHwyNCUyRjclMjBzdXBwb3J0fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1715066289859-d12a3b4eb28d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHwyNCUyRjclMjBzdXBwb3J0fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "24/7 support"
     },
     {
       "id": "service-support-maintenance-2",
       "description": "A software update being installed.",
-      "imageUrl": "https://images.unsplash.com/photo-1758577675588-c5bbbbbf8e97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb2Z0d2FyZSUyMHVwZGF0ZXN8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1758577675588-c5bbbbbf8e97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzb2Z0d2FyZSUyMHVwZGF0ZXN8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "software updates"
     },
     {
       "id": "service-support-maintenance-3",
       "description": "A system being monitored for performance.",
-      "imageUrl": "https://images.unsplash.com/photo-1709601414869-735ef2f9d399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJmb3JtYW5jZSUyMG1vbml0b3Jpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1709601414869-735ef2f9d399?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZXJmb3JtYW5jZSUyMG1vbml0b3Jpbmd8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "performance monitoring"
     },
     {
       "id": "service-support-maintenance-4",
       "description": "A customer receiving help from a support agent.",
-      "imageUrl": "https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjdXN0b21lciUyMHN1cHBvcnR8ZW58MHx8fHwxNzU4OTExOTI2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1626863905121-3b0c0ed7b94c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjdXN0b21lciUyMHN1cHBvcnR8ZW58MHx8fHwxNzU4OTExOTI2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "customer support"
     },
     {
       "id": "service-mobile-testing",
       "description": "An app being tested on various mobile devices.",
-      "imageUrl": "https://images.unsplash.com/photo-1565268878251-eb6848dc481c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9iaWxlJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1565268878251-eb6848dc481c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9iaWxlJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "mobile testing"
     },
     {
       "id": "service-mobile-testing-1",
       "description": "A checklist for functional testing of a mobile app.",
-      "imageUrl": "https://images.unsplash.com/photo-1698423846501-cc5c25d07e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdW5jdGlvbmFsJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1698423846501-cc5c25d07e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdW5jdGlvbmFsJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5ODU5NTZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "functional testing"
     },
     {
       "id": "service-mobile-testing-2",
       "description": "An app's user interface being tested for usability.",
-      "imageUrl": "https://images.unsplash.com/photo-1554350747-ec45fd24f51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx1c2FiaWxpdHklMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554350747-ec45fd24f51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx1c2FiaWxpdHklMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "usability testing"
     },
     {
       "id": "service-mobile-testing-3",
       "description": "A performance graph of a mobile application.",
-      "imageUrl": "https://images.unsplash.com/photo-1554350747-ec45fd24f51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyZm9ybWFuY2UlMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554350747-ec45fd24f51b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGVyZm9ybWFuY2UlMjB0ZXN0aW5nfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "performance testing"
     },
     {
       "id": "service-mobile-testing-4",
       "description": "An automated testing script running on a device farm.",
-      "imageUrl": "https://images.unsplash.com/photo-1583737096648-196af19d3796?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhdXRvbWF0aW9uJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5MDE5NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1583737096648-196af19d3796?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhdXRvbWF0aW9uJTIwdGVzdGluZ3xlbnwwfHx8fDE3NTg5MDE5NjZ8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "automation testing"
     },
     {
       "id": "service-api-integration",
       "description": "Abstract visualization of different APIs connecting.",
-      "imageUrl": "https://images.unsplash.com/photo-1670184853364-2f3a37609a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxBUEklMjBjb25uZWN0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1670184853364-2f3a37609a87?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxBUEklMjBjb25uZWN0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "API connection"
     },
     {
       "id": "service-api-integration-1",
       "description": "A custom API being developed.",
-      "imageUrl": "https://images.unsplash.com/photo-1669137084970-bbbc29db73b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjdXN0b20lMjBBUEl8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1669137084970-bbbc29db73b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjdXN0b20lMjBBUEl8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "custom API"
     },
     {
       "id": "service-api-integration-2",
       "description": "Integrating third-party services like payment gateways.",
-      "imageUrl": "https://images.unsplash.com/photo-1647006873308-2f0f9e34f23a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aGlyZC1wYXJ0eSUyMGludGVncmF0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1647006873308-2f0f9e34f23a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0aGlyZC1wYXJ0eSUyMGludGVncmF0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "third-party integration"
     },
     {
       "id": "service-api-integration-3",
       "description": "A seamless flow of data between applications.",
-      "imageUrl": "https://images.unsplash.com/photo-1718241905559-1de8c30ae1dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXRhJTIwc3luY2hyb25pemF0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1718241905559-1de8c30ae1dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxkYXRhJTIwc3luY2hyb25pemF0aW9ufGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "data synchronization"
     },
     {
       "id": "service-api-integration-4",
       "description": "A developer monitoring API performance and security.",
-      "imageUrl": "https://images.unsplash.com/photo-1662469456772-a7d5af1b43bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxBUEklMjBtYW5hZ2VtZW50fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1662469456772-a7d5af1b43bc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxBUEklMjBtYW5hZ2VtZW50fGVufDB8fHx8MTc1ODk4NTk1Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "API management"
+    },
+    {
+      "id": "hire-developers",
+      "description": "A team of skilled software developers.",
+      "imageUrl": "https://images.unsplash.com/photo-1556740758-90de374c12ad?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2Z0d2FyZSUyMGRldmVsb3BlcnN8ZW58MHx8fHwxNzU4OTkwOTYxfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "software developers"
+    },
+    {
+      "id": "hire-flutter",
+      "description": "The Flutter logo with an abstract background.",
+      "imageUrl": "https://images.unsplash.com/photo-1639149546029-41712a43d995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmbHV0dGVyJTIwZGV2ZWxvcG1lbnR8ZW58MHx8fHwxNzU4OTkwOTYyfDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "flutter development"
+    },
+    {
+      "id": "hire-react-native",
+      "description": "The React Native logo on a screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyZWFjdCUyMG5hdGl2ZXxlbnwwfHx8fDE3NTg5OTA5NjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "react native"
+    },
+    {
+      "id": "hire-ionic",
+      "description": "The Ionic framework logo.",
+      "imageUrl": "https://images.unsplash.com/photo-1593720219276-0b1eacd0aef4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpb25pYyUyMGZyYW1ld29ya3xlbnwwfHx8fDE3NTg5OTA5NjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "ionic framework"
+    },
+    {
+      "id": "hire-wordpress",
+      "description": "The WordPress logo on a laptop screen.",
+      "imageUrl": "https://images.unsplash.com/photo-1616469829718-0faf79424d38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3b3JkcHJlc3MlMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE3NTg5OTA5NjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "wordpress development"
+    },
+    {
+      "id": "hire-reactjs",
+      "description": "Code written in ReactJS.",
+      "imageUrl": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWFjdGpzfGVufDB8fHx8MTc1ODk5MDk2M3ww&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "reactjs code"
+    },
+    {
+      "id": "hire-unreal",
+      "description": "A game scene created with Unreal Engine.",
+      "imageUrl": "https://images.unsplash.com/photo-1691405158424-480b6ded158c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx1bnJlYWwlMjBlbmdpbmV8ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "unreal engine"
+    },
+    {
+      "id": "hire-full-stack",
+      "description": "A diagram showing the full stack of web development.",
+      "imageUrl": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmdWxsJTIwc3RhY2slMjBkZXZlbG9wbWVudHxlbnwwfHx8fDE3NTg5OTA5NjN8MA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageHint": "full stack"
+    },
+    {
+      "id": "hire-dev-feature-1",
+      "description": "A vetted developer working.",
+      "imageUrl": "https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZXR0ZWQlMjBkZXZlbG9wZXJ8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vetted developer"
+    },
+    {
+      "id": "hire-dev-feature-2",
+      "description": "A transparent process diagram.",
+      "imageUrl": "https://images.unsplash.com/photo-1722462438498-f82bf766097f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmFuc3BhcmVudCUyMHByb2Nlc3N8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "transparent process"
+    },
+    {
+      "id": "hire-dev-feature-3",
+      "description": "A scalable team structure.",
+      "imageUrl": "https://images.unsplash.com/photo-1622260872090-5c558010a67e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2FsYWJsZSUyMHRlYW18ZW58MHx8fHwxNzU4OTg2MzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "scalable team"
+    },
+    {
+      "id": "hire-dev-feature-4",
+      "description": "A developer with domain expertise.",
+      "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb21haW4lMjBleHBlcnRpc2V8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "domain expertise"
     }
   ]
 }

@@ -99,7 +99,33 @@ export const navLinks = [
   },
   {
     title: "Hire Developers",
-    href: "#",
+    megaMenu: [
+      {
+        title: "Hire Mobile Developers",
+        href: "/hire-developers",
+        links: [
+          { title: "Hire Flutter Developers", href: "/hire-developers/flutter" },
+          { title: "Hire React Native Developers", href: "/hire-developers/react-native" },
+          { title: "Hire Ionic Developers", href: "/hire-developers/ionic" },
+        ],
+      },
+      {
+        title: "Hire Web Developers",
+        href: "/hire-developers",
+        links: [
+          { title: "Hire Wordpress Developers", href: "/hire-developers/wordpress" },
+          { title: "Hire ReactJS Developers", href: "/hire-developers/reactjs" },
+          { title: "Hire Full Stack Developers", href: "/hire-developers/full-stack" },
+        ],
+      },
+      {
+        title: "Hire Game Developers",
+        href: "/hire-developers",
+        links: [
+          { title: "Hire Unreal Developers", href: "/hire-developers/unreal" },
+        ]
+      }
+    ],
   },
   {
     title: "Technologies",
@@ -262,13 +288,13 @@ export const footerData = {
         {
             title: "Hire Developer",
             links: [
-                { label: "Hire Flutter Developers", href: "#" },
-                { label: "Hire React Native Developers", href: "#" },
-                { label: "Hire Ionic Developers", href: "#" },
-                { label: "Hire Wordpress Developers", href: "#" },
-                { label: "Hire ReactJS Developers", href: "#" },
-                { label: "Hire Unreal Developers", href: "#" },
-                { label: "Hire Full Stack Developers", href: "#" },
+                { label: "Hire Flutter Developers", href: "/hire-developers/flutter" },
+                { label: "Hire React Native Developers", href: "/hire-developers/react-native" },
+                { label: "Hire Ionic Developers", href: "/hire-developers/ionic" },
+                { label: "Hire Wordpress Developers", href: "/hire-developers/wordpress" },
+                { label: "Hire ReactJS Developers", href: "/hire-developers/reactjs" },
+                { label: "Hire Unreal Developers", href: "/hire-developers/unreal" },
+                { label: "Hire Full Stack Developers", href: "/hire-developers/full-stack" },
             ]
         },
         {
@@ -311,5 +337,6 @@ export const footerData = {
     ]
 };
 
+    
     
     
