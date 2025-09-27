@@ -330,10 +330,11 @@ export const footerData = {
         { name: "Behance", href: "#" },
     ],
     legalLinks: [
-        { label: "Privacy Policy", href: "#" },
-        { label: "Refund Policy", href: "#" },
-        { label: "Terms & Condition", href: "#" },
+        { label: "Privacy Policy", href: "/legal/privacy-policy" },
+        { label: "Refund Policy", href: "/legal/refund-policy" },
+        { label: "Terms & Condition", href: "/legal/terms-and-conditions" },
     ]
 };
 
+    
     
