@@ -13,25 +13,25 @@ export const navLinks = [
         title: "Company",
         href: "#",
         links: [
-          { title: "Life at Binate", href: "#" },
-          { title: "Why Us", href: "#" },
-          { title: "Partnerships", href: "#" },
+          { title: "Life at Binate", href: "/company/life-at-binate" },
+          { title: "Why Us", href: "/company/why-us" },
+          { title: "Partnerships", href: "/company/partnerships" },
         ],
       },
       {
         title: "Resources",
         href: "#",
         links: [
-          { title: "Blog", href: "#" },
-          { title: "Contact Us", href: "#" },
-          { title: "Austin", href: "#" },
+          { title: "Blog", href: "/resources/blog" },
+          { title: "Contact Us", href: "/resources/contact-us" },
+          { title: "Austin", href: "/resources/austin" },
         ],
       },
       {
         title: "About",
-        href: "#",
+        href: "/about",
         links: [
-            { title: "Tailored Digital Solutions: Your Key to a Competitive Advantage.", href: "#" },
+            { title: "Tailored Digital Solutions: Your Key to a Competitive Advantage.", href: "/about" },
         ]
       }
     ],
