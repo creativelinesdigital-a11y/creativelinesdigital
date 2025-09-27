@@ -2,9 +2,9 @@ import * as React from "react";
 
 const Logo = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
-    width="180"
+    width="220"
     height="32"
-    viewBox="0 0 180 36"
+    viewBox="0 0 220 36"
     fill="none"
     xmlns="http://www.w3.org/2000/svg"
     {...props}
@@ -25,19 +25,9 @@ const Logo = (props: React.SVGProps<SVGSVGElement>) => (
       fontFamily="Inter, sans-serif"
       fontSize="16"
       fontWeight="bold"
-      className="fill-foreground"
+      className="fill-foreground uppercase"
     >
-      Creative Lines
-    </text>
-    <text
-      x="135"
-      y="27"
-      fontFamily="Inter, sans-serif"
-      fontSize="16"
-      fontWeight="normal"
-      className="fill-muted-foreground"
-    >
-      Digital
+      Creative Lines Digital
     </text>
   </svg>
 );
