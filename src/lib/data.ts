@@ -49,7 +49,6 @@ export const navLinks = [
                 { title: "OTT App Development", href: "/ott-app-development" },
                 { title: "App Store Optimization", href: "/app-store-optimization" },
                 { title: "Digital Marketing", href: "/digital-marketing" },
-                { title: "Software Testing", href: "/software-testing" },
             ]
         },
         {
@@ -57,9 +56,9 @@ export const navLinks = [
             href: "#",
             links: [
                 { title: "Software Testing", href: "/software-testing" },
-                { title: "Support & Maintenance", href: "#" },
-                { title: "Mobile Testing", href: "#" },
-                { title: "API Integration", href: "#" },
+                { title: "Support & Maintenance", href: "/support-and-maintenance" },
+                { title: "Mobile Testing", href: "/mobile-testing" },
+                { title: "API Integration", href: "/api-integration" },
             ]
         },
         {
@@ -83,7 +82,6 @@ export const navLinks = [
         links: [
           { title: "Android App Development", href: "/android-app-development" },
           { title: "Kotlin App Development", href: "/kotlin-app-development" },
-          { title: "iOS Game Development", href: "/ios-game-development" },
           { title: "Cross Platform Apps", href: "/cross-platform-apps" },
         ],
       },
@@ -91,6 +89,7 @@ export const navLinks = [
         title: "Game Development",
         href: "#",
         links: [
+          { title: "iOS Game Development", href: "/ios-game-development" },
           { title: "Unreal Game Development", href: "/unreal-game-development" },
           { title: "Unity Game Development", href: "/unity-game-development" },
           { title: "AR/VR App Development", href: "/ar-vr-app-development" },
@@ -312,4 +311,5 @@ export const footerData = {
     ]
 };
 
+    
     
