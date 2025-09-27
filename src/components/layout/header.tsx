@@ -16,7 +16,7 @@ import {
   AccordionTrigger,
 } from "@/components/ui/accordion";
 import { navLinks } from "@/lib/data";
-import { Menu, Phone } from "lucide-react";
+import { Menu } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ContactButton } from "../contact-button";
 
@@ -77,12 +77,6 @@ const Header = () => {
           
           <div className="hidden lg:flex items-center space-x-4">
             <ContactButton />
-            <Button variant="ghost" asChild>
-              <a href="tel:856-243-6180" className="flex items-center gap-2">
-                <Phone size={16} />
-                856-243-6180
-              </a>
-            </Button>
           </div>
 
           {/* Mobile Navigation */}
@@ -146,12 +140,6 @@ const Header = () => {
                   </nav>
                   <div className="p-4 space-y-4 border-t">
                      <ContactButton className="w-full" />
-                      <Button variant="ghost" asChild className="w-full">
-                        <a href="tel:856-243-6180" className="flex items-center gap-2">
-                            <Phone size={16} />
-                            856-243-6180
-                        </a>
-                    </Button>
                   </div>
               </SheetContent>
             </Sheet>
