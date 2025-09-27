@@ -1,6 +1,7 @@
 'use server';
 
 import { z } from 'zod';
+import nodemailer from 'nodemailer';
 
 const formSchema = z.object({
   name: z.string().min(2, "Name must be at least 2 characters."),
@@ -18,12 +19,39 @@ export async function submitContactForm(values: z.infer<typeof formSchema>) {
     return { success: false, message: 'Invalid form data.' };
   }
 
-  // Here you would typically send an email, save to a database, etc.
-  // For this example, we'll just log it and simulate a success response.
-  console.log('Form submitted:', parsed.data);
-  
-  // Simulate network delay
-  await new Promise(resolve => setTimeout(resolve, 1000));
+  const { name, email, phone, zipcode, message, interests } = parsed.data;
 
-  return { success: true, message: 'Form submitted successfully!' };
+  const transporter = nodemailer.createTransport({
+    host: process.env.SMTP_HOST,
+    port: Number(process.env.SMTP_PORT),
+    secure: process.env.SMTP_PORT === '465', // true for 465, false for other ports
+    auth: {
+      user: process.env.SMTP_USER,
+      pass: process.env.SMTP_PASS,
+    },
+  });
+
+  const mailOptions = {
+    from: `"${name}" <${email}>`,
+    to: 'creativelinesdigital@gmail.com',
+    subject: 'New Contact Form Submission from Your Website',
+    html: `
+      <h2>New Contact Form Submission</h2>
+      <p><strong>Name:</strong> ${name}</p>
+      <p><strong>Email:</strong> ${email}</p>
+      <p><strong>Phone:</strong> ${phone}</p>
+      <p><strong>Zip Code:</strong> ${zipcode || 'Not provided'}</p>
+      <p><strong>Interests:</strong> ${interests?.join(', ') || 'Not specified'}</p>
+      <p><strong>Message:</strong></p>
+      <p>${message || 'No message provided'}</p>
+    `,
+  };
+
+  try {
+    await transporter.sendMail(mailOptions);
+    return { success: true, message: 'Form submitted successfully!' };
+  } catch (error) {
+    console.error('Error sending email:', error);
+    return { success: false, message: 'Failed to send message. Please try again later.' };
+  }
 }
