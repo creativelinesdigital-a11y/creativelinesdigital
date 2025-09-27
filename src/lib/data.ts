@@ -300,13 +300,13 @@ export const footerData = {
         {
             title: "Industries",
             links: [
-                { label: "Sport App Development", href: "#" },
-                { label: "Media And Entertainment", href: "#" },
-                { label: "Logistics And Transportation", href: "#" },
-                { label: "E-commerce and Retail", href: "#" },
-                { label: "Healthcare App Development", href: "#" },
-                { label: "Education App Development", href: "#" },
-                { label: "Finance App Development", href: "#" },
+                { label: "Sport App Development", href: "/industries/sport-app-development" },
+                { label: "Media And Entertainment", href: "/industries/media-and-entertainment" },
+                { label: "Logistics And Transportation", href: "/industries/logistics-and-transportation" },
+                { label: "E-commerce and Retail", href: "/industries/ecommerce-and-retail" },
+                { label: "Healthcare App Development", href: "/industries/healthcare-app-development" },
+                { label: "Education App Development", href: "/industries/education-app-development" },
+                { label: "Finance App Development", href: "/industries/finance-app-development" },
             ]
         }
     ],
@@ -339,4 +339,6 @@ export const footerData = {
 
     
     
+    
+
     

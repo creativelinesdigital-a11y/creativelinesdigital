@@ -63,7 +63,7 @@
     {
       "id": "award-2",
       "description": "Logo for a digital marketing award.",
-      "imageUrl": "https://images.unsplash.com/photo-1587653478919-9cdd825ea821?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhd2FyZCUyMGJhZGdlfGVufDB8fHx8MTc1ODg5Mzg4Nnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1587653478919-9cdd825ea821?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhd2FyZCUyMGJhZGdlfGVufDB8fHx8MTc1ODg5Mzg4Nnww&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "award badge"
     },
     {
@@ -75,7 +75,7 @@
     {
       "id": "award-4",
       "description": "Clutch top 1000 company logo.",
-      "imageUrl": "https://images.unsplash.com/photo-1754782385462-87d3aadabd04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2x1dGNoJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1754782385462-87d3aadabd04?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2x1dGNoJTIwbG9nb3xlbnwwfHx8fDE3NTg5ODU5NTV8MA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "clutch logo"
     },
     {
@@ -267,7 +267,7 @@
     {
       "id": "service-staff-augmentation",
       "description": "Team members joining a new company.",
-      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib-rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1585984968562-1443b72fb0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWFtJTIwaW50ZWdyYXRpb258ZW58MHx8fHwxNzU4OTg1OTU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "team integration"
     },
     {
@@ -825,26 +825,236 @@
     {
       "id": "hire-dev-feature-1",
       "description": "A vetted developer working.",
-      "imageUrl": "https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZXR0ZWQlMjBkZXZlbG9wZXJ8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1554306274-f23873d9a26c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx2ZXR0ZWQlMjBkZXZlbG9wZXJ8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "vetted developer"
     },
     {
       "id": "hire-dev-feature-2",
       "description": "A transparent process diagram.",
-      "imageUrl": "https://images.unsplash.com/photo-1722462438498-f82bf766097f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmFuc3BhcmVudCUyMHByb2Nlc3N8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1722462438498-f82bf766097f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHx0cmFuc3BhcmVudCUyMHByb2Nlc3N8ZW58MHx8fHwxNzU4OTg1OTU1fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "transparent process"
     },
     {
       "id": "hire-dev-feature-3",
       "description": "A scalable team structure.",
-      "imageUrl": "https://images.unsplash.com/photo-1622260872090-5c558010a67e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2FsYWJsZSUyMHRlYW18ZW58MHx8fHwxNzU4OTg2MzU4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1622260872090-5c558010a67e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxzY2FsYWJsZSUyMHRlYW18ZW58MHx8fHwxNzU4OTg2MzU4fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "scalable team"
     },
     {
       "id": "hire-dev-feature-4",
       "description": "A developer with domain expertise.",
-      "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb21haW4lMjBleHBlcnRpc2V8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1687524690542-2659f268cde8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb21haW4lMjBleHBlcnRpc2V8ZW58MHx8fHwxNzU4OTg2MzU3fDA&ixlib-rb-4.1.0&q=80&w=1080",
       "imageHint": "domain expertise"
+    },
+    {
+      "id": "industry-sports",
+      "description": "A stadium full of cheering fans.",
+      "imageUrl": "https://images.unsplash.com/photo-1634813052369-3584119ccd2a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxzdGFkaXVtJTIwZmFuc3xlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stadium fans"
+    },
+    {
+      "id": "industry-sports-1",
+      "description": "A person using a fitness app on their phone while running.",
+      "imageUrl": "https://images.unsplash.com/photo-1727432806019-99527daa45f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxmaXRuZXNzJTIwYXBwfGVufDB8fHx8MTc1ODk4NTk1NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fitness app"
+    },
+    {
+      "id": "industry-sports-2",
+      "description": "A fantasy sports league interface on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1613626318906-68be0aef3334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmYW50YXN5JTIwc3BvcnRzfGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fantasy sports"
+    },
+    {
+      "id": "industry-sports-3",
+      "description": "Augmented reality view of player stats during a live game.",
+      "imageUrl": "https://images.unsplash.com/photo-1724908267988-63310819325c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxhdWdtZW50ZWQlMjByZWFsaXR5fGVufDB8fHx8MTc1ODkwMzc1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "augmented reality"
+    },
+    {
+      "id": "industry-sports-4",
+      "description": "A wearable device tracking a swimmer's performance.",
+      "imageUrl": "https://images.unsplash.com/photo-1596236100223-f3c656de3038?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3ZWFyYWJsZSUyMHRlY2hub2xvZ3l8ZW58MHx8fHwxNzU4OTcwNzc0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wearable technology"
+    },
+    {
+      "id": "industry-media",
+      "description": "A collage of different media types like video, music, and news.",
+      "imageUrl": "https://images.unsplash.com/photo-1709467585628-afd0d20ef376?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZWRpYSUyMGNvbGxhZ2V8ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "media collage"
+    },
+    {
+      "id": "industry-media-1",
+      "description": "A user browsing a video streaming service on a smart TV.",
+      "imageUrl": "https://images.unsplash.com/photo-1673196649654-d3ed2f58483c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx2aWRlbyUyMHN0cmVhbWluZ3xlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "video streaming"
+    },
+    {
+      "id": "industry-media-2",
+      "description": "A podcast recording setup with a microphone and headphones.",
+      "imageUrl": "https://images.unsplash.com/photo-1668606144327-837f2d8eac94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cG9kY2FzdCUyMHJlY29yZGluZ3xlbnwwfHx8fDE3NTg5MjUyNjB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "podcast recording"
+    },
+    {
+      "id": "industry-media-3",
+      "description": "A news feed app on a smartphone showing personalized articles.",
+      "imageUrl": "https://images.unsplash.com/photo-1730817403180-e1efaba2f0c1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxuZXdzJTIwYXBwfGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "news app"
+    },
+    {
+      "id": "industry-media-4",
+      "description": "A dynamic content management system dashboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjb250ZW50JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "content management"
+    },
+    {
+      "id": "industry-logistics",
+      "description": "A busy warehouse with automated robots and workers.",
+      "imageUrl": "https://images.unsplash.com/photo-1741655262435-4890ab9918fa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXN5JTIwd2FyZWhvdXNlfGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "busy warehouse"
+    },
+    {
+      "id": "industry-logistics-1",
+      "description": "A map showing real-time tracking of a delivery truck.",
+      "imageUrl": "https://images.unsplash.com/photo-1633307057722-a4740ba0c5d0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxyZWFsLXRpbWUlMjB0cmFja2luZ3xlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "real-time tracking"
+    },
+    {
+      "id": "industry-logistics-2",
+      "description": "A worker using a handheld scanner to manage inventory.",
+      "imageUrl": "https://images.unsplash.com/photo-1627915589334-14a3c3e3a741?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW52ZW50b3J5JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTg5MDg3NDl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "inventory management"
+    },
+    {
+      "id": "industry-logistics-3",
+      "description": "A diagram showing an optimized supply chain route.",
+      "imageUrl": "https://images.unsplash.com/photo-1634638022845-1ab614a94128?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxzdXBwbHklMjBjaGFpbnxlbnwwfHx8fDE3NTg5MDIyMTl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "supply chain"
+    },
+    {
+      "id": "industry-logistics-4",
+      "description": "A dashboard predicting demand for products.",
+      "imageUrl": "https://images.unsplash.com/photo-1700700736052-540dee9d762c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkZW1hbmQlMjBwcmVkaWN0aW9ufGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "demand prediction"
+    },
+    {
+      "id": "industry-ecommerce",
+      "description": "A person shopping online using a laptop and credit card.",
+      "imageUrl": "https://images.unsplash.com/photo-1539278383962-a7774385fa02?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxvbmxpbmUlMjBzaG9wcGluZ3xlbnwwfHx8fDE3NTg5NDc1OTF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online shopping"
+    },
+    {
+      "id": "industry-ecommerce-1",
+      "description": "An attractive and user-friendly online storefront on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1657256031812-4702fe316f1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxvbmxpbmUlMjBzdG9yZWZyb250fGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "online storefront"
+    },
+    {
+      "id": "industry-ecommerce-2",
+      "description": "A personalized product recommendation engine showing relevant items.",
+      "imageUrl": "https://images.unsplash.com/photo-1572096082104-1a93185c9a45?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxwcm9kdWN0JTIwcmVjb21tZW5kYXRpb258ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "product recommendation"
+    },
+    {
+      "id": "industry-ecommerce-3",
+      "description": "A secure and seamless online checkout process on a phone.",
+      "imageUrl": "https://images.unsplash.com/photo-1758611974022-ca3182694951?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzZWN1cmUlMjBjaGVja291dHxlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "secure checkout"
+    },
+    {
+      "id": "industry-ecommerce-4",
+      "description": "A customer support chatbot assisting a user on a retail website.",
+      "imageUrl": "https://images.unsplash.com/photo-1653212883731-4d5bc66e0181?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdXBwb3J0JTIwY2hhdGJvdHxlbnwwfHx8fDE3NTg5MDcxMzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "support chatbot"
+    },
+    {
+      "id": "industry-healthcare",
+      "description": "A doctor consulting with a patient via a telehealth app.",
+      "imageUrl": "https://images.unsplash.com/photo-1758691461916-dc7894eb8f94?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0ZWxlaGVhbHRoJTIwY29uc3VsdGF0aW9ufGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "telehealth consultation"
+    },
+    {
+      "id": "industry-healthcare-1",
+      "description": "A secure electronic health record (EHR) system on a tablet.",
+      "imageUrl": "https://images.unsplash.com/photo-1758578070302-68ffeb30a0ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlbGVjdHJvbmljJTIwaGVhbHRofGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "electronic health"
+    },
+    {
+      "id": "industry-healthcare-2",
+      "description": "A wearable device tracking vital signs like heart rate and oxygen levels.",
+      "imageUrl": "https://images.unsplash.com/photo-1522273400909-fd1a8f77637e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx3ZWFyYWJsZSUyMGRldmljZXxlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wearable device"
+    },
+    {
+      "id": "industry-healthcare-3",
+      "description": "A medical imaging AI analyzing an X-ray for anomalies.",
+      "imageUrl": "https://images.unsplash.com/photo-1666214280391-8ff5bd3c0bf0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtZWRpY2FsJTIwaW1hZ2luZ3xlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "medical imaging"
+    },
+    {
+      "id": "industry-healthcare-4",
+      "description": "An app for managing appointments and prescription refills.",
+      "imageUrl": "https://images.unsplash.com/photo-1662673138864-9dd1ccb02cb7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcmVzY3JpcHRpb24lMjBhcHB8ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "prescription app"
+    },
+    {
+      "id": "industry-education",
+      "description": "A student participating in an interactive virtual classroom.",
+      "imageUrl": "https://images.unsplash.com/photo-1600108471333-d66086db92a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx2aXJ0dWFsJTIwY2xhc3Nyb29tfGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "virtual classroom"
+    },
+    {
+      "id": "industry-education-1",
+      "description": "A personalized learning path shown on an e-learning platform.",
+      "imageUrl": "https://images.unsplash.com/photo-1617805784101-213408884db8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwZXJzb25hbGl6ZWQlMjBsZWFybmluZ3xlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "personalized learning"
+    },
+    {
+      "id": "industry-education-2",
+      "description": "A gamified quiz app making learning fun and engaging.",
+      "imageUrl": "https://images.unsplash.com/photo-1561815820-1004cd9a3b57?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxnYW1pZmllZCUyMHF1aXp8ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gamified quiz"
+    },
+    {
+      "id": "industry-education-3",
+      "description": "A student collaborating with peers on a digital whiteboard.",
+      "imageUrl": "https://images.unsplash.com/photo-1743385779431-45d26d9775b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxkaWdpdGFsJTIwd2hpdGVib2FyZHxlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "digital whiteboard"
+    },
+    {
+      "id": "industry-education-4",
+      "description": "An analytics dashboard showing student progress and performance.",
+      "imageUrl": "https://images.unsplash.com/photo-1614492898637-435e0f87cef8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdHVkZW50JTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1ODk4ODU4N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "student analytics"
+    },
+    {
+      "id": "industry-finance",
+      "description": "A secure mobile banking app showing transactions and balances.",
+      "imageUrl": "https://images.unsplash.com/photo-1556742521-9713bf272865?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW9iaWxlJTIwYmFua2luZ3xlbnwwfHx8fDE3NTg5MTU3NzJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mobile banking"
+    },
+    {
+      "id": "industry-finance-1",
+      "description": "A trading platform with real-time stock charts and data.",
+      "imageUrl": "https://images.unsplash.com/photo-1657049671938-3e5988228df3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmFkaW5nJTIwcGxhdGZvcm18ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trading platform"
+    },
+    {
+      "id": "industry-finance-2",
+      "description": "An AI-powered robo-advisor providing investment recommendations.",
+      "imageUrl": "https://images.unsplash.com/photo-1574071744270-6b1c3fae0e4c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxyb2JvJTIwYWR2aXNvcnxlbnwwfHx8fDE3NTg5ODg1ODd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "robo advisor"
+    },
+    {
+      "id": "industry-finance-3",
+      "description": "A person making a contactless payment with their smartphone.",
+      "imageUrl": "https://images.unsplash.com/photo-1509017174183-0b7e0278f1ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb250YWN0bGVzcyUyMHBheW1lbnR8ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "contactless payment"
+    },
+    {
+      "id": "industry-finance-4",
+      "description": "An insurance app for managing policies and filing claims.",
+      "imageUrl": "https://images.unsplash.com/photo-1647964186194-ef9c04e552f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbnN1cmFuY2UlMjBhcHB8ZW58MHx8fHwxNzU4OTg4NTg3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "insurance app"
     }
   ]
 }
