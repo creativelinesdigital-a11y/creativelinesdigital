@@ -32,12 +32,12 @@ const Header = () => {
           </Link>
           
           {/* Desktop Navigation */}
-          <nav className="hidden lg:flex items-center space-x-2">
+          <nav className="hidden lg:flex items-center space-x-1">
             {navLinks.map((link) =>
               link.megaMenu ? (
                 <Popover key={link.title}>
                   <PopoverTrigger asChild>
-                    <Button variant="ghost" className="text-base font-medium">
+                    <Button variant="ghost" className="text-sm font-medium">
                       {link.title}
                     </Button>
                   </PopoverTrigger>
@@ -68,7 +68,7 @@ const Header = () => {
                   </PopoverContent>
                 </Popover>
               ) : (
-                <Button asChild variant="ghost" key={link.title} className="text-base font-medium">
+                <Button asChild variant="ghost" key={link.title} className="text-sm font-medium">
                   <Link href={link.href || "#"}>{link.title}</Link>
                 </Button>
               )
