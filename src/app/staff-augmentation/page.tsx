@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function StaffAugmentation() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In today's fast-paced market, having the right team is crucial for success. However, finding, hiring, and retaining top talent can be a significant challenge. Binate Digital's Staff Augmentation services offer a flexible and efficient solution, allowing you to seamlessly extend your in-house team with our skilled professionals.
+                In today's fast-paced market, having the right team is crucial for success. However, finding, hiring, and retaining top talent can be a significant challenge. Creative Lines Digital's Staff Augmentation services offer a flexible and efficient solution, allowing you to seamlessly extend your in-house team with our skilled professionals.
             </p>
             <p className="text-muted-foreground">
                 We provide the experts you need to fill skill gaps, manage fluctuating workloads, and drive your projects forward without the overheads of permanent hires. Our developers and specialists become a part of your team, working under your direction and aligning with your company's culture and objectives.

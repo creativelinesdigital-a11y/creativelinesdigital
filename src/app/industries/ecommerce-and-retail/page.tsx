@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function EcommerceAndRetail() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The retail landscape has been transformed by e-commerce. To succeed, businesses need a robust digital presence that provides a seamless and personalized shopping experience. Binate Digital builds high-performance e-commerce solutions that help retailers thrive in this competitive market.
+                The retail landscape has been transformed by e-commerce. To succeed, businesses need a robust digital presence that provides a seamless and personalized shopping experience. Creative Lines Digital builds high-performance e-commerce solutions that help retailers thrive in this competitive market.
             </p>
             <p className="text-muted-foreground">
                 We offer end-to-end services, from designing and developing beautiful online storefronts to building mobile commerce apps and integrating in-store technologies. Our focus is on creating solutions that are not only visually appealing but also scalable, secure, and optimized for conversion.

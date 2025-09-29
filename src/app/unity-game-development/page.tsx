@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function UnityGameDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Unity is the engine of choice for millions of game developers around the world, and for good reason. Its flexibility, powerful features, and cross-platform capabilities make it the ideal choice for projects of any scale. At Binate Digital, our seasoned Unity developers create captivating games that resonate with players.
+                Unity is the engine of choice for millions of game developers around the world, and for good reason. Its flexibility, powerful features, and cross-platform capabilities make it the ideal choice for projects of any scale. At Creative Lines Digital, our seasoned Unity developers create captivating games that resonate with players.
             </p>
             <p className="text-muted-foreground">
                 We specialize in creating both 2D and 3D games, leveraging Unity's rich feature set to deliver high-quality, performant, and engaging experiences. From mobile puzzle games to ambitious multi-platform RPGs, we have the skills and passion to turn your creative vision into a commercial success.

@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function MediaAndEntertainment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The media landscape is constantly changing, with new technologies and consumer behaviors shaping the future of content. Binate Digital helps media companies and content creators navigate this dynamic environment with custom digital solutions that engage audiences and drive revenue.
+                The media landscape is constantly changing, with new technologies and consumer behaviors shaping the future of content. Creative Lines Digital helps media companies and content creators navigate this dynamic environment with custom digital solutions that engage audiences and drive revenue.
             </p>
             <p className="text-muted-foreground">
                 We combine our deep industry knowledge with technical expertise in video streaming, content management, and mobile development to build platforms that are not only technologically advanced but also user-friendly and commercially successful.

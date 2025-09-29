@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HealthcareAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Technology is revolutionizing healthcare, offering new ways to deliver care, manage data, and engage patients. Binate Digital is a trusted partner for healthcare organizations, developing custom software that meets the industry's strict security and regulatory requirements.
+                Technology is revolutionizing healthcare, offering new ways to deliver care, manage data, and engage patients. Creative Lines Digital is a trusted partner for healthcare organizations, developing custom software that meets the industry's strict security and regulatory requirements.
             </p>
             <p className="text-muted-foreground">
                 We specialize in creating HIPAA-compliant applications for telemedicine, practice management, patient engagement, and medical data analytics. Our team understands the complexities of the healthcare industry and is committed to building solutions that improve efficiency, reduce costs, and enhance the quality of care.

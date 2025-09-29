@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireReactNativeDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Go to market faster on both iOS and Android with a single app. Binate Digital's React Native developers use their deep knowledge of the React ecosystem to build robust, scalable, and feature-rich mobile applications that your users will love.
+                Go to market faster on both iOS and Android with a single app. Creative Lines Digital's React Native developers use their deep knowledge of the React ecosystem to build robust, scalable, and feature-rich mobile applications that your users will love.
             </p>
             <p className="text-muted-foreground">
                 We provide seasoned developers who can seamlessly join your team, whether you're a startup looking to build your first MVP or an enterprise needing to scale your mobile presence. Hire our React Native experts to benefit from faster development cycles and a cost-effective solution.

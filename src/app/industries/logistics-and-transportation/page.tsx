@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function LogisticsAndTransportation() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In the complex world of logistics and transportation, efficiency is everything. Binate Digital develops custom software that provides the visibility and control you need to streamline your operations, reduce costs, and exceed customer expectations.
+                In the complex world of logistics and transportation, efficiency is everything. Creative Lines Digital develops custom software that provides the visibility and control you need to streamline your operations, reduce costs, and exceed customer expectations.
             </p>
             <p className="text-muted-foreground">
                 From fleet and warehouse management to supply chain optimization and last-mile delivery, our solutions are tailored to meet the unique challenges of your business. We leverage technologies like IoT, AI, and mobile to build robust and scalable systems that deliver a real return on investment.

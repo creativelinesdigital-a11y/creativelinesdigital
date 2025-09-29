@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireFlutterDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Harness the power of Google's UI toolkit with Binate Digital's dedicated Flutter developers. We build visually appealing and fast-performing apps for any screen from a single codebase, reducing complexity and accelerating your time to market.
+                Harness the power of Google's UI toolkit with Creative Lines Digital's dedicated Flutter developers. We build visually appealing and fast-performing apps for any screen from a single codebase, reducing complexity and accelerating your time to market.
             </p>
             <p className="text-muted-foreground">
                 Our team of Flutter experts is adept at creating complex, customized applications that feel native on both iOS and Android. By hiring our developers, you gain access to top-tier talent that can turn your vision into a reality, delivering a product that is both beautiful and robust.

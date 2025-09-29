@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function SoftwareTesting() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In a competitive digital landscape, a buggy or unreliable application can be detrimental to your brand. Binate Digital's software testing and QA services are designed to identify issues, eliminate defects, and ensure your software meets the highest standards of quality before it reaches your users.
+                In a competitive digital landscape, a buggy or unreliable application can be detrimental to your brand. Creative Lines Digital's software testing and QA services are designed to identify issues, eliminate defects, and ensure your software meets the highest standards of quality before it reaches your users.
             </p>
             <p className="text-muted-foreground">
                 Our dedicated team of QA engineers employs a systematic approach, using the latest tools and methodologies to conduct rigorous testing throughout the development lifecycle. From functionality and performance to security and usability, we cover all aspects to guarantee a seamless and positive user experience.

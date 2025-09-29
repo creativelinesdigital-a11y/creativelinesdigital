@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function OttAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The world of media is rapidly shifting to over-the-top (OTT) streaming. Binate Digital helps you capitalize on this trend by developing custom OTT platforms that allow you to deliver your video content directly to your audience, anytime, anywhere.
+                The world of media is rapidly shifting to over-the-top (OTT) streaming. Creative Lines Digital helps you capitalize on this trend by developing custom OTT platforms that allow you to deliver your video content directly to your audience, anytime, anywhere.
             </p>
             <p className="text-muted-foreground">
                 From live streaming to video-on-demand (VOD), we build feature-rich applications with exceptional user experiences. Our team handles everything from backend infrastructure and content management systems to front-end applications for all major platforms, giving you a complete, market-ready solution.

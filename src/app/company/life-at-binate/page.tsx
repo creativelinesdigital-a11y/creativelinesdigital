@@ -1,7 +1,8 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 
-export default function LifeAtBinatePage() {
+export default function LifeAtCreativeLinesDigitalPage() {
   const image = PlaceHolderImages.find(img => img.id === 'page-life-at-binate');
   if (!image) return null;
 

@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function FinanceAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The financial services industry is being redefined by technology. Binate Digital is at the forefront of this FinTech revolution, building secure and innovative applications that empower financial institutions and their customers.
+                The financial services industry is being redefined by technology. Creative Lines Digital is at the forefront of this FinTech revolution, building secure and innovative applications that empower financial institutions and their customers.
             </p>
             <p className="text-muted-foreground">
                 We have deep expertise in developing solutions for mobile banking, payment processing, investment platforms, and insurance technology (Insurtech). Our team prioritizes security, compliance, and user experience to deliver products that are not only powerful but also trustworthy.

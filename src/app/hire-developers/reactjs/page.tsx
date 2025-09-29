@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireReactJSDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Create engaging and interactive user experiences with the most popular JavaScript library for building UIs. Binate Digital's team of dedicated ReactJS developers has the expertise to build everything from single-page applications to complex enterprise-grade frontends.
+                Create engaging and interactive user experiences with the most popular JavaScript library for building UIs. Creative Lines Digital's team of dedicated ReactJS developers has the expertise to build everything from single-page applications to complex enterprise-grade frontends.
             </p>
             <p className="text-muted-foreground">
                 We provide developers who are masters of the React ecosystem, including state management with Redux, routing with React Router, and modern tooling. By hiring our ReactJS experts, you ensure your project is built on a solid, performant, and scalable foundation.

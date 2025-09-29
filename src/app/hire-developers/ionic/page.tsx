@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireIonicDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Transform your web development team into a mobile app powerhouse with Ionic. Binate Digital provides skilled Ionic developers who can build fast, reliable, and engaging cross-platform applications using your existing web technology stack.
+                Transform your web development team into a mobile app powerhouse with Ionic. Creative Lines Digital provides skilled Ionic developers who can build fast, reliable, and engaging cross-platform applications using your existing web technology stack.
             </p>
             <p className="text-muted-foreground">
                 Our developers are proficient in Angular, React, or Vue and leverage the Ionic framework to deliver a single, high-quality application that runs everywhere. Hire our team to create a cost-effective and scalable mobile solution for your business.

@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function IosGameDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The Apple App Store is a vibrant and profitable ecosystem for game developers. Binate Digital has extensive experience creating successful iOS games that capture the attention of players and generate revenue. We understand the nuances of the platform and what it takes to build a chart-topping hit.
+                The Apple App Store is a vibrant and profitable ecosystem for game developers. Creative Lines Digital has extensive experience creating successful iOS games that capture the attention of players and generate revenue. We understand the nuances of the platform and what it takes to build a chart-topping hit.
             </p>
             <p className="text-muted-foreground">
                 Our team of iOS game developers uses native technologies like Swift and SpriteKit, as well as powerful engines like Unity and Unreal, to build games that are perfectly optimized for Apple's hardware. We guide you through every step, from initial concept to a successful launch on the App Store, ensuring your game is polished, performant, and fun to play.

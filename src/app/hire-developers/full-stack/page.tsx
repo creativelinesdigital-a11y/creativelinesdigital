@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireFullStackDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Simplify your development process and accelerate your timeline by hiring our expert full-stack developers. Binate Digital provides versatile professionals who are proficient in both client-side and server-side technologies, capable of taking your project from concept to completion.
+                Simplify your development process and accelerate your timeline by hiring our expert full-stack developers. Creative Lines Digital provides versatile professionals who are proficient in both client-side and server-side technologies, capable of taking your project from concept to completion.
             </p>
             <p className="text-muted-foreground">
                 Our full-stack developers have a holistic understanding of the entire development process, enabling them to build seamless, well-integrated applications. Whether you need to build a new product from scratch or maintain an existing one, our experts provide the comprehensive skills you need.

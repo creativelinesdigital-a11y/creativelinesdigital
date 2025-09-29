@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function SupportAndMaintenance() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Launching an application is just the beginning. To ensure its long-term success, continuous support and maintenance are crucial. Binate Digital offers comprehensive support packages designed to keep your software secure, stable, and aligned with the latest technology trends.
+                Launching an application is just the beginning. To ensure its long-term success, continuous support and maintenance are crucial. Creative Lines Digital offers comprehensive support packages designed to keep your software secure, stable, and aligned with the latest technology trends.
             </p>
             <p className="text-muted-foreground">
                 Our team acts as an extension of yours, providing proactive monitoring, timely updates, and rapid bug fixes. We take care of the technical details, so you can have peace of mind knowing your application is in expert hands, allowing you to focus on growth and innovation.
@@ -74,5 +75,4 @@ export default function SupportAndMaintenance() {
     </ServicePageLayout>
   );
 }
-
     

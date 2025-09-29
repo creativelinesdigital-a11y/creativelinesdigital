@@ -15,7 +15,7 @@ export const navLinks = [
         title: "Company",
         href: "#",
         links: [
-          { title: "Life at Binate", href: "/company/life-at-binate" },
+          { title: "Life at Creative Lines Digital", href: "/company/life-at-binate" },
           { title: "Why Us", href: "/company/why-us" },
           { title: "Partnerships", href: "/company/partnerships" },
         ],
@@ -336,6 +336,3 @@ export const footerData = {
         { label: "Terms & Condition", href: "/legal/terms-and-conditions" },
     ]
 };
-
-    
-    

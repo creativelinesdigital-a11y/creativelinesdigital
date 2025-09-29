@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireWordpressDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Power your online presence with a custom WordPress solution from Binate Digital. Our dedicated WordPress developers create more than just websites; they build digital experiences that are tailored to your business objectives, from corporate sites to complex e-commerce platforms.
+                Power your online presence with a custom WordPress solution from Creative Lines Digital. Our dedicated WordPress developers create more than just websites; they build digital experiences that are tailored to your business objectives, from corporate sites to complex e-commerce platforms.
             </p>
             <p className="text-muted-foreground">
                 We provide experts who understand the ins and outs of the WordPress platform, including custom theme development, plugin creation, and performance optimization. Hire our team to build a website that is not only visually stunning but also secure, scalable, and easy to manage.

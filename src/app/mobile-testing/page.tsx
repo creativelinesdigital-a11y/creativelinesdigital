@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function MobileTesting() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                In the competitive mobile app market, a single bug or a poor user experience can lead to uninstalls and negative reviews. Binate Digital's dedicated mobile testing services help you launch with confidence, ensuring your app meets the highest standards of quality.
+                In the competitive mobile app market, a single bug or a poor user experience can lead to uninstalls and negative reviews. Creative Lines Digital's dedicated mobile testing services help you launch with confidence, ensuring your app meets the highest standards of quality.
             </p>
             <p className="text-muted-foreground">
                 Our QA experts test your app on a wide range of real devices and simulators, covering different screen sizes, operating system versions, and network conditions. We combine manual and automated testing to provide thorough coverage, from functionality and performance to security and usability, guaranteeing a polished final product.
@@ -74,5 +75,3 @@ export default function MobileTesting() {
     </ServicePageLayout>
   );
 }
-
-    

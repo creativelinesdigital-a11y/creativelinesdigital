@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function SportAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                The sports industry is undergoing a massive digital transformation. From how fans consume content to how athletes train, technology is at the heart of the evolution. Binate Digital creates powerful applications that cater to the unique needs of teams, leagues, and sports organizations.
+                The sports industry is undergoing a massive digital transformation. From how fans consume content to how athletes train, technology is at the heart of the evolution. Creative Lines Digital creates powerful applications that cater to the unique needs of teams, leagues, and sports organizations.
             </p>
             <p className="text-muted-foreground">
                 We develop solutions that not only captivate fans but also provide a competitive edge. Our expertise in mobile apps, data analytics, and streaming technologies allows us to deliver high-impact digital products that drive growth and innovation in the sports sector.

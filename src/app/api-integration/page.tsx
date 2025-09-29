@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -42,7 +43,7 @@ export default function ApiIntegration() {
                 In today's interconnected digital world, no application is an island. API (Application Programming Interface) integration is the key to unlocking the full potential of your software by enabling different systems to communicate, share data, and automate processes.
             </p>
             <p className="text-muted-foreground">
-                Binate Digital specializes in creating seamless and robust API integrations. Whether you need to connect to a third-party service, build a custom API for your own product, or orchestrate complex workflows between multiple applications, our team has the expertise to deliver a solution that is both powerful and reliable.
+                Creative Lines Digital specializes in creating seamless and robust API integrations. Whether you need to connect to a third-party service, build a custom API for your own product, or orchestrate complex workflows between multiple applications, our team has the expertise to deliver a solution that is both powerful and reliable.
             </p>
 
             <div className="space-y-16 pt-12">

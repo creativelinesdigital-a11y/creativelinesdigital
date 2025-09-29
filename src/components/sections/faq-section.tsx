@@ -1,3 +1,4 @@
+
 "use client";
 
 import { useState } from "react";
@@ -27,7 +28,7 @@ const FaqSection = () => {
 
     const websiteContent = `
     Empowering Digital Transformation: Global Solutions for a Competitive World. 
-    Binate Digital offers the solution. As a leading global digital tech company, we specialize in crafting innovative digital experiences that drive transformation. From strategy and design to development and deployment, our team works with you to deliver solutions tailored to your business objectives.
+    Creative Lines Digital offers the solution. As a leading global digital tech company, we specialize in crafting innovative digital experiences that drive transformation. From strategy and design to development and deployment, our team works with you to deliver solutions tailored to your business objectives.
     Custom Mobile App Development: We specialize in custom software development that empowers businesses to streamline operations and enhance user engagement.
     UI/UX Design: Our UI design approach merges creativity with functionality. We create visually stunning interfaces that not only look great but are easy to navigate.
     Custom Website Development: We create bespoke, scalable websites designed to align perfectly with your brand and business objectives.

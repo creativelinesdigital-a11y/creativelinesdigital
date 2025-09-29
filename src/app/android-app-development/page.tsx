@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function AndroidAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                With billions of active users, Android offers an unparalleled opportunity to connect with a global audience. Binate Digital specializes in creating custom Android applications that are tailored to your unique business needs, from concept and design to development and deployment on the Google Play Store.
+                With billions of active users, Android offers an unparalleled opportunity to connect with a global audience. Creative Lines Digital specializes in creating custom Android applications that are tailored to your unique business needs, from concept and design to development and deployment on the Google Play Store.
             </p>
             <p className="text-muted-foreground">
                 Our team of expert Android developers utilizes the latest technologies and best practices to build secure, scalable, and engaging applications. We focus on delivering a flawless user experience that not only looks great but also performs exceptionally, helping you to achieve your business objectives and stand out in a crowded market.

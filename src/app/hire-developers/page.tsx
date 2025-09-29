@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Finding and retaining top development talent is one of the biggest challenges in the tech industry. Binate Digital solves this by connecting you with our pool of world-class developers, available to join your team and start contributing from day one.
+                Finding and retaining top development talent is one of the biggest challenges in the tech industry. Creative Lines Digital solves this by connecting you with our pool of world-class developers, available to join your team and start contributing from day one.
             </p>
             <p className="text-muted-foreground">
                 Whether you need to fill a specific skill gap, scale your team for a new project, or build a long-term development powerhouse, our 'Hire Developers' service provides the flexibility and expertise you need. We handle the recruitment and vetting, so you can focus on building great products.

@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function ArVrAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Augmented Reality (AR) and Virtual Reality (VR) are transforming how we interact with technology and the world around us. Binate Digital is at the forefront of this revolution, designing and developing custom AR and VR solutions that open up new possibilities for businesses and their customers.
+                Augmented Reality (AR) and Virtual Reality (VR) are transforming how we interact with technology and the world around us. Creative Lines Digital is at the forefront of this revolution, designing and developing custom AR and VR solutions that open up new possibilities for businesses and their customers.
             </p>
             <p className="text-muted-foreground">
                 Whether you want to create an AR app that lets customers visualize furniture in their home, a VR training simulation for your employees, or an immersive game that captivates players, our team has the expertise to bring your vision to life. We work with the latest hardware and software to build high-performance, compelling experiences that push the boundaries of what's possible.

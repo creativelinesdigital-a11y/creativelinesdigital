@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function EducationAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Education is evolving, and technology is playing a central role in shaping its future. Binate Digital develops custom EdTech solutions that enhance the learning experience for students and provide powerful tools for educators and institutions.
+                Education is evolving, and technology is playing a central role in shaping its future. Creative Lines Digital develops custom EdTech solutions that enhance the learning experience for students and provide powerful tools for educators and institutions.
             </p>
             <p className="text-muted-foreground">
                 From interactive e-learning platforms and virtual classrooms to comprehensive Learning Management Systems (LMS), our applications are designed to be engaging, accessible, and effective. We partner with schools, universities, and corporate training departments to create technology that empowers learning.

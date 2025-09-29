@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function UnrealGameDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                When it comes to creating visually stunning and high-performance games, Unreal Engine stands in a class of its own. Binate Digital's team of expert Unreal Engine developers specializes in pushing the boundaries of what's possible, creating AAA-quality games for PC, consoles, and mobile devices.
+                When it comes to creating visually stunning and high-performance games, Unreal Engine stands in a class of its own. Creative Lines Digital's team of expert Unreal Engine developers specializes in pushing the boundaries of what's possible, creating AAA-quality games for PC, consoles, and mobile devices.
             </p>
             <p className="text-muted-foreground">
                 We handle the entire game development lifecycle, from concept and prototyping to final release and post-launch support. Whether you're an indie developer with a unique vision or a large studio looking to scale your production, we provide the technical expertise and creative passion needed to build an unforgettable game with Unreal Engine.

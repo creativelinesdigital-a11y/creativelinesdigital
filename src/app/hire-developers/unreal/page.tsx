@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function HireUnrealDevelopers() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                Bring your most ambitious creative visions to life with Binate Digital's elite Unreal Engine developers. Whether you're building a AAA game, a cinematic experience, or a real-time architectural visualization, we provide the specialized talent you need to succeed.
+                Bring your most ambitious creative visions to life with Creative Lines Digital's elite Unreal Engine developers. Whether you're building a AAA game, a cinematic experience, or a real-time architectural visualization, we provide the specialized talent you need to succeed.
             </p>
             <p className="text-muted-foreground">
                 Our developers are experts in C++, Blueprints, and the full suite of Unreal Engine's powerful features. By hiring our team, you gain access to a pool of passionate and skilled professionals who can deliver stunning visuals, complex gameplay, and unparalleled performance.

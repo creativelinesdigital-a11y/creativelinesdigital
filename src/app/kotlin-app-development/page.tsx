@@ -1,3 +1,4 @@
+
 import ServicePageLayout from "@/components/layout/service-page-layout";
 import { PlaceHolderImages } from "@/lib/placeholder-images";
 import Image from "next/image";
@@ -39,7 +40,7 @@ export default function KotlinAppDevelopment() {
     >
         <div className="space-y-8">
             <p className="text-lg text-muted-foreground">
-                As Google's officially supported language for Android development, Kotlin offers a modern and powerful alternative to Java. Binate Digital harnesses the full potential of Kotlin to build fast, secure, and cutting-edge Android applications that provide an exceptional user experience.
+                As Google's officially supported language for Android development, Kotlin offers a modern and powerful alternative to Java. Creative Lines Digital harnesses the full potential of Kotlin to build fast, secure, and cutting-edge Android applications that provide an exceptional user experience.
             </p>
             <p className="text-muted-foreground">
                 Our Kotlin developers are experts in leveraging the language's advanced features, such as null safety and coroutines, to create more stable and performant apps. By choosing Kotlin, you are investing in a future-proof technology that ensures your application is maintainable, scalable, and ready for what's next in the world of Android.
