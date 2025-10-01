@@ -27,7 +27,7 @@ const features = [
 ];
 
 export default function HireReactNativeDevelopers() {
-  const image = PlaceHolderImages.find(img => imgid === 'hire-react-native');
+  const image = PlaceHolderImages.find(img => img.id === 'hire-react-native'); // ✅ fixed here
   if (!image) return null;
 
   return (
