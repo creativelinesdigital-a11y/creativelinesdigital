@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { Toaster } from "@/components/ui/toaster";
 import { ContactSheetProvider } from "@/components/layout/contact-sheet-provider";
+import { SidebarProvider } from "@/components/layout/sidebar";
 
 export const metadata: Metadata = {
   title: "Global Digital Transformation Agency | Creative Lines Digital",
@@ -17,6 +18,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
@@ -29,9 +31,11 @@ export default function RootLayout({
         />
       </head>
       <body className="font-body antialiased">
-        <ContactSheetProvider>
-          {children}
-        </ContactSheetProvider>
+        <SidebarProvider>
+          <ContactSheetProvider>
+            {children}
+          </ContactSheetProvider>
+        </SidebarProvider>
         <Toaster />
       </body>
     </html>

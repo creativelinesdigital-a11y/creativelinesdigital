@@ -19,9 +19,11 @@ import { navLinks } from "@/lib/data";
 import { Menu } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { ContactButton } from "../contact-button";
+import { useSidebar } from "./sidebar";
 
 const Header = () => {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const { setOpen: setSidebarOpen } = useSidebar();
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
@@ -77,10 +79,18 @@ const Header = () => {
           
           <div className="hidden lg:flex items-center space-x-4">
             <ContactButton />
+            <Button variant="outline" size="icon" onClick={() => setSidebarOpen(true)}>
+                <Menu className="h-6 w-6" />
+                <span className="sr-only">Open sidebar</span>
+            </Button>
           </div>
 
           {/* Mobile Navigation */}
-          <div className="lg:hidden">
+          <div className="lg:hidden flex items-center gap-2">
+            <Button variant="outline" size="icon" onClick={() => setSidebarOpen(true)}>
+                <Menu className="h-6 w-6" />
+                <span className="sr-only">Open sidebar</span>
+            </Button>
             <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
               <SheetTrigger asChild>
                 <Button variant="outline" size="icon">
