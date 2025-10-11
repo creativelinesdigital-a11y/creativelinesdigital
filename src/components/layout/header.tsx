@@ -89,70 +89,8 @@ const Header = () => {
           <div className="lg:hidden flex items-center gap-2">
             <Button variant="outline" size="icon" onClick={() => setSidebarOpen(true)}>
                 <Menu className="h-6 w-6" />
-                <span className="sr-only">Open sidebar</span>
+                <span className="sr-only">Open menu</span>
             </Button>
-            <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
-              <SheetTrigger asChild>
-                <Button variant="outline" size="icon">
-                  <Menu className="h-6 w-6" />
-                  <span className="sr-only">Open menu</span>
-                </Button>
-              </SheetTrigger>
-              <SheetContent side="left" className="w-full max-w-sm p-0 overflow-y-auto">
-                  <div className="p-4 border-b">
-                    <Link href="/" onClick={() => setMobileMenuOpen(false)}>
-                        <Logo />
-                    </Link>
-                  </div>
-                  <nav className="p-4">
-                    <Accordion type="single" collapsible className="w-full">
-                        {navLinks.map((link) =>
-                        link.megaMenu ? (
-                            <AccordionItem value={link.title} key={link.title}>
-                                <AccordionTrigger className="text-lg font-medium">{link.title}</AccordionTrigger>
-                                <AccordionContent>
-                                    <div className="space-y-4 pl-4">
-                                    {link.megaMenu.map((section) => (
-                                        <div key={section.title}>
-                                            <h4 className="font-semibold mb-2 text-primary">
-                                                <Link href={section.href || '#'} onClick={() => setMobileMenuOpen(false)}>{section.title}</Link>
-                                            </h4>
-                                            <ul className="space-y-2">
-                                                {section.links.map((item) => (
-                                                    <li key={item.title}>
-                                                        <Link
-                                                            href={item.href}
-                                                            onClick={() => setMobileMenuOpen(false)}
-                                                            className="block text-muted-foreground hover:text-foreground py-1"
-                                                        >
-                                                            {item.title}
-                                                        </Link>
-                                                    </li>
-                                                ))}
-                                            </ul>
-                                        </div>
-                                    ))}
-                                    </div>
-                                </AccordionContent>
-                            </AccordionItem>
-                        ) : (
-                            <Link
-                                key={link.title}
-                                href={link.href || "#"}
-                                onClick={() => setMobileMenuOpen(false)}
-                                className="block py-4 text-lg font-medium border-b"
-                            >
-                                {link.title}
-                            </Link>
-                        )
-                        )}
-                    </Accordion>
-                  </nav>
-                  <div className="p-4 space-y-4 border-t">
-                     <ContactButton className="w-full" />
-                  </div>
-              </SheetContent>
-            </Sheet>
           </div>
         </div>
       </div>
