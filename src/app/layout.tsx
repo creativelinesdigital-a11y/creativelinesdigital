@@ -31,11 +31,11 @@ export default function RootLayout({
         />
       </head>
       <body className="font-body antialiased">
-        <SidebarProvider>
-          <ContactSheetProvider>
+        <ContactSheetProvider>
+          <SidebarProvider>
             {children}
-          </ContactSheetProvider>
-        </SidebarProvider>
+          </SidebarProvider>
+        </ContactSheetProvider>
         <Toaster />
       </body>
     </html>
